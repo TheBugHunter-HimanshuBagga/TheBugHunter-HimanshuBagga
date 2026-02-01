@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🚀 Co-Founder & CTO at Stackxs
+## 🚀 Founder & CTO at Stackxs
 
 [![GitHub](https://img.shields.io/badge/GitHub-TheBugHunter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheBugHunter-HimanshuBagga)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-bagga-30b747323/)
