@@ -109,7 +109,7 @@
     </clipPath>
     <g clip-path="url(#portraitArea)">
       <!-- Profile Image -->
-      <image href="https://avatars.githubusercontent.com/u/226510850?v=4" x="60" y="55" width="300" height="320" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+      <image href="assets/profile.jpg" x="60" y="55" width="300" height="320" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
 
       <!-- Portrait Fade Overlay -->
       <rect width="420" height="420" fill="url(#portraitGrad)"/>

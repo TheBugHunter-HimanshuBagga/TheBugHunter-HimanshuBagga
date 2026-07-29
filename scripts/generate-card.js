@@ -4,7 +4,7 @@ const path = require('path');
 
 const GITHUB_USER = 'TheBugHunter-HimanshuBagga';
 const OUTPUT_DIR = path.join(__dirname, '..', 'assets');
-const PROFILE_IMAGE = path.join(OUTPUT_DIR, 'profile.jpg');
+const PROFILE_IMAGE = path.join(OUTPUT_DIR, 'image.png');
 
 function fetch(url) {
   return new Promise((resolve, reject) => {
