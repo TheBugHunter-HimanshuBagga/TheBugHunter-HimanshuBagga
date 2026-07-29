@@ -175,43 +175,240 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.1) 0%, rgba(139,92,246,0.05) 100%); border: 1px solid rgba(99,102,241,0.2); border-radius: 16px; padding: 24px;">
 
-#### ➡️ Backend
-
-`Java` `Spring Boot` `Spring Security` `Hibernate` `JPA` `JWT` `REST APIs` `Microservices`
-
-<br/>
-
-#### ➡️ Frontend
-
-`React.js` `JavaScript` `HTML` `CSS` `Tailwind CSS`
+### ☕ Backend
 
 <br/>
 
-#### ➡️ Database
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Spring Security</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Hibernate</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>JPA</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>JWT</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>REST APIs</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Microservices</b></sub>
+</td>
+</tr>
+</table>
 
-`MySQL` `PostgreSQL` `H2`
+</td>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(99,102,241,0.05) 100%); border: 1px solid rgba(139,92,246,0.2); border-radius: 16px; padding: 24px;">
+
+### ⚛️ Frontend
 
 <br/>
 
-#### ➡️ Cloud & DevOps
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>React.js</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>HTML</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>CSS</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Tailwind CSS</b></sub>
+</td>
+<td align="center" width="80"></td>
+<td align="center" width="80"></td>
+<td align="center" width="80"></td>
+</tr>
+</table>
 
-`AWS` `Docker` `Git`
+</td>
+</tr>
+</table>
 
 <br/>
 
-#### ➡️ Tools
+<table>
+<tr>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.1) 0%, rgba(139,92,246,0.05) 100%); border: 1px solid rgba(99,102,241,0.2); border-radius: 16px; padding: 24px;">
 
-`IntelliJ IDEA` `VS Code` `Postman` `Maven`
+### 🗄️ Database
 
 <br/>
 
-#### ➡️ Languages
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>H2</b></sub>
+</td>
+<td align="center" width="80"></td>
+</tr>
+</table>
 
-`Java` `JavaScript` `SQL` `Python`
+</td>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(99,102,241,0.05) 100%); border: 1px solid rgba(139,92,246,0.2); border-radius: 16px; padding: 24px;">
 
-</div>
+### ☁️ Cloud & DevOps
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>AWS</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Docker</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="80"></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.1) 0%, rgba(139,92,246,0.05) 100%); border: 1px solid rgba(99,102,241,0.2); border-radius: 16px; padding: 24px;">
+
+### 🛠️ Tools
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>IntelliJ IDEA</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Postman</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Maven</b></sub>
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(99,102,241,0.05) 100%); border: 1px solid rgba(139,92,246,0.2); border-radius: 16px; padding: 24px;">
+
+### 💬 Languages
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>SQL</b></sub>
+</td>
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<br/>
+<sub><b>Python</b></sub>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
