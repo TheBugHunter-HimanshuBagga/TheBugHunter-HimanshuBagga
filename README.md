@@ -9,15 +9,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Backend+Systems;Passionate+About+Java+%26+Spring+Boot;Solving+Real-World+Engineering+Problems)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Backend+Systems;Passionate+About+Java+%26+Spring+Boot;Solving+Real-World+Engineering+Problems)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
 <a href="https://github.com/TheBugHunter-HimanshuBagga" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="<!-- REPLACE: your LinkedIn profile URL -->" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="<!-- REPLACE: your LeetCode profile URL -->" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:<!-- REPLACE: your email address -->" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="<!-- REPLACE: your portfolio URL -->" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/Himanshu_bagga/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="mailto:himanshu.bagga@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 </div>
 
@@ -318,7 +318,6 @@ Building scalable SaaS backend systems and production-ready features.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBugHunter-HimanshuBagga&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="400"/>
-<img src="https://github-profile-trophy.vercel.app/?username=TheBugHunter-HimanshuBagga&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="480"/>
 
 </div>
 
@@ -398,11 +397,11 @@ Building scalable SaaS backend systems and production-ready features.
 <div align="center">
 
 <a href="https://github.com/TheBugHunter-HimanshuBagga" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="<!-- REPLACE: your LinkedIn profile URL -->" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="<!-- REPLACE: your portfolio URL -->" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="<!-- REPLACE: your LeetCode profile URL -->" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:<!-- REPLACE: your email address -->" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="<!-- REPLACE: your resume URL -->" target="_blank"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://leetcode.com/u/Himanshu_bagga/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="mailto:himanshu.bagga@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 
 </div>
 
