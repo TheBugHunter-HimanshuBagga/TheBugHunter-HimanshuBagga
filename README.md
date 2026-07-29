@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section with Profile Photo -->
-<img src="https://github.com/himanshubagga.png" width="150" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99,102,241,0.4);"/>
+<img src="https://github.com/TheBugHunter-HimanshuBagga.png" width="150" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99,102,241,0.4);"/>
 
 # Hello 👋, I'm Himanshu Bagga
 
@@ -9,15 +9,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Backend+Systems;Passionate+About+Java+%26+Spring+Boot;Solving+Real-World+Engineering+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Backend+Systems;Passionate+About+Java+%26+Spring+Boot;Solving+Real-World+Engineering+Problems)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 <br/>
 
-<a href="https://github.com/himanshubagga" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://linkedin.com/in/himanshubagga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://leetcode.com/himanshubagga" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:himanshu.bagga@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://himanshubagga.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/TheBugHunter-HimanshuBagga" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="<!-- REPLACE: your LinkedIn profile URL -->" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="<!-- REPLACE: your LeetCode profile URL -->" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="mailto:<!-- REPLACE: your email address -->" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="<!-- REPLACE: your portfolio URL -->" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 </div>
 
@@ -30,7 +30,7 @@
 <!-- About Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Software%20Engineer.png" alt="Software Engineer" width="35"/> About Me
+## 👨‍💻 About Me
 
 </div>
 
@@ -68,7 +68,7 @@ public class HimanshuBagga {
 <!-- Experience Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="35"/> Experience
+## 💼 Experience
 
 </div>
 
@@ -78,7 +78,7 @@ public class HimanshuBagga {
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20"/> Java Developer Intern
+### ⭐ Java Developer Intern
 
 **Judge India Solutions (The Judge Group)**
 
@@ -105,7 +105,7 @@ Building a GIS-enabled enterprise platform using modern backend technologies.
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20"/> Backend Developer Intern
+### ⭐ Backend Developer Intern
 
 **Sentinel Layer (SaaS Startup)**
 
@@ -140,7 +140,7 @@ Building scalable SaaS backend systems and production-ready features.
 <!-- Currently Building Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="35"/> Currently Building
+## 🔧 Currently Building
 
 </div>
 
@@ -148,12 +148,12 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Drop.png" alt="Drop" width="25"/> Flood Damage Assessment Portal | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25"/> Dokify |
+| 💧 Flood Damage Assessment Portal | 📚 Dokify |
 |:---:|:---:|
 | Full-stack disaster management platform | Online notes sharing platform |
 | `Spring Boot` `React.js` `PostgreSQL` | `Spring Boot` `JWT` `MySQL` |
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25"/> LinkUP | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Leaf.png" alt="Leaf" width="25"/> Food Waste Management |
+| 🔗 LinkUP | 🍃 Food Waste Management |
 |:---:|:---:|
 | Professional networking platform | Donation tracking & inventory system |
 | `JWT` `Pagination` `Sorting` | `Spring Boot` `React` `PostgreSQL` |
@@ -169,7 +169,7 @@ Building scalable SaaS backend systems and production-ready features.
 <!-- Tech Stack Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35"/> Tech Stack
+## 💻 Tech Stack
 
 </div>
 
@@ -177,37 +177,37 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Arrow%20Right.png" alt="Arrow" width="20"/> Backend
+#### ➡️ Backend
 
 `Java` `Spring Boot` `Spring Security` `Hibernate` `JPA` `JWT` `REST APIs` `Microservices`
 
 <br/>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Arrow%20Right.png" alt="Arrow" width="20"/> Frontend
+#### ➡️ Frontend
 
 `React.js` `JavaScript` `HTML` `CSS` `Tailwind CSS`
 
 <br/>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Arrow%20Right.png" alt="Arrow" width="20"/> Database
+#### ➡️ Database
 
 `MySQL` `PostgreSQL` `H2`
 
 <br/>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Arrow%20Right.png" alt="Arrow" width="20"/> Cloud & DevOps
+#### ➡️ Cloud & DevOps
 
 `AWS` `Docker` `Git`
 
 <br/>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Arrow%20Right.png" alt="Arrow" width="20"/> Tools
+#### ➡️ Tools
 
 `IntelliJ IDEA` `VS Code` `Postman` `Maven`
 
 <br/>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Arrow%20Right.png" alt="Arrow" width="20"/> Languages
+#### ➡️ Languages
 
 `Java` `JavaScript` `SQL` `Python`
 
@@ -222,7 +222,7 @@ Building scalable SaaS backend systems and production-ready features.
 <!-- Featured Projects Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35"/> Featured Projects
+## 🚀 Featured Projects
 
 </div>
 
@@ -232,7 +232,7 @@ Building scalable SaaS backend systems and production-ready features.
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Drop.png" alt="Drop" width="22"/> Flood Damage Assessment Portal
+### 💧 Flood Damage Assessment Portal
 
 > Full-stack disaster management platform with real-time reporting.
 
@@ -246,7 +246,7 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="22"/> LinkUP
+### 🔗 LinkUP
 
 > Professional networking platform with secure API design.
 
@@ -261,7 +261,7 @@ Building scalable SaaS backend systems and production-ready features.
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="22"/> Dokify
+### 📚 Dokify
 
 > Online notes sharing platform for students and professionals.
 
@@ -275,7 +275,7 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Leaf.png" alt="Leaf" width="22"/> Food Waste Management System
+### 🍃 Food Waste Management System
 
 > Platform connecting NGOs and restaurants for donation tracking.
 
@@ -300,7 +300,7 @@ Building scalable SaaS backend systems and production-ready features.
 <!-- GitHub Analytics Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 </div>
 
@@ -308,8 +308,8 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshubagga&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=6366f1" width="480"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshubagga&theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=8b5cf6&currStreakLabel=c084fc" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheBugHunter-HimanshuBagga&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=6366f1" width="480"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBugHunter-HimanshuBagga&theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=8b5cf6&currStreakLabel=c084fc" width="480"/>
 
 </div>
 
@@ -317,8 +317,8 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubagga&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="400"/>
-<img src="https://github-profile-trophy.vercel.app/?username=himanshubagga&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBugHunter-HimanshuBagga&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="400"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TheBugHunter-HimanshuBagga&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="480"/>
 
 </div>
 
@@ -326,7 +326,7 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshubagga&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c084fc&area_color=6366f1&area=true&hide_border=true&custom_title=Contribution%20Activity)
+![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBugHunter-HimanshuBagga&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c084fc&area_color=6366f1&area=true&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
@@ -339,7 +339,7 @@ Building scalable SaaS backend systems and production-ready features.
 <!-- Certifications Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Diploma.png" alt="Diploma" width="35"/> Certifications
+## 🎓 Certifications
 
 </div>
 
@@ -347,12 +347,12 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="25"/> AWS Cloud Virtual Internship | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25"/> NPTEL - OOP in C++ |
+| ☁️ AWS Cloud Virtual Internship | 📖 NPTEL - OOP in C++ |
 |:---:|:---:|
 | **Forage** | **NPTEL** |
 | Cloud Computing & AWS Services | Object-Oriented Programming |
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25"/> Machine Learning Specialization | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="25"/> Deep Learning Specialization |
+| 🤖 Machine Learning Specialization | 🧠 Deep Learning Specialization |
 |:---:|:---:|
 | **Coursera** | **Coursera** |
 | ML Algorithms & Applications | Neural Networks & Deep Learning |
@@ -368,7 +368,7 @@ Building scalable SaaS backend systems and production-ready features.
 <!-- Achievements Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35"/> Achievements
+## 🏆 Achievements
 
 </div>
 
@@ -389,7 +389,7 @@ Building scalable SaaS backend systems and production-ready features.
 <!-- Connect Section -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Handshake.png" alt="Connect" width="35"/> Let's Connect
+## 🤝 Let's Connect
 
 </div>
 
@@ -397,12 +397,12 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-<a href="https://github.com/himanshubagga" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://linkedin.com/in/himanshubagga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://himanshubagga.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://leetcode.com/himanshubagga" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:himanshu.bagga@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/himanshubagga/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://github.com/TheBugHunter-HimanshuBagga" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="<!-- REPLACE: your LinkedIn profile URL -->" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="<!-- REPLACE: your portfolio URL -->" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="<!-- REPLACE: your LeetCode profile URL -->" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="mailto:<!-- REPLACE: your email address -->" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="<!-- REPLACE: your resume URL -->" target="_blank"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 
 </div>
 
@@ -412,7 +412,7 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=himanshubagga&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=TheBugHunter-HimanshuBagga&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Building scalable backend systems, one commit at a time."*
 
