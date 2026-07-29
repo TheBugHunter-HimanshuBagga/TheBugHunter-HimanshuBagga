@@ -72,15 +72,14 @@ function calculateSkills(stats) {
 }
 
 function generateSVG(data) {
-  const { stats, avatarUrl } = data;
+  const { stats, avatarUrl, profileBase64 } = data;
   const level = getLevel(stats.contributions, stats.stars, stats.repos, stats.followers);
   const rank = getRank(stats.contributions, stats.stars, stats.repos, stats.followers);
   const skills = calculateSkills(stats);
   const levelProgress = (level % 10) * 10;
 
-  // Use local profile image if exists, otherwise use GitHub avatar
-  const hasLocalProfile = fs.existsSync(PROFILE_IMAGE);
-  const profileSrc = hasLocalProfile ? 'assets/profile.jpg' : avatarUrl;
+  // Use base64 profile if available, otherwise use GitHub avatar
+  const profileSrc = profileBase64 || avatarUrl;
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 800" width="420" height="800">
   <defs>
@@ -396,11 +395,22 @@ async function main() {
   };
 
   console.log('Stats:', stats);
-  console.log('Local profile image:', fs.existsSync(PROFILE_IMAGE) ? 'Found' : 'Using GitHub avatar');
+  
+  // Read profile image and convert to base64
+  let profileBase64 = null;
+  if (fs.existsSync(PROFILE_IMAGE)) {
+    const imageBuffer = fs.readFileSync(PROFILE_IMAGE);
+    const ext = path.extname(PROFILE_IMAGE).toLowerCase();
+    const mimeType = ext === '.png' ? 'image/png' : 'image/jpeg';
+    profileBase64 = `data:${mimeType};base64,${imageBuffer.toString('base64')}`;
+    console.log('Profile image loaded and converted to base64');
+  } else {
+    console.log('Using GitHub avatar');
+  }
 
   if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
-  const svg = generateSVG({ stats, avatarUrl: user.avatar_url });
+  const svg = generateSVG({ stats, avatarUrl: user.avatar_url, profileBase64 });
   const outputPath = path.join(OUTPUT_DIR, 'developer-card.svg');
   fs.writeFileSync(outputPath, svg);
   console.log(`Card generated: ${outputPath}`);
