@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 620" width="420" height="620">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="50%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(99,102,241,0.15)"/>
+      <stop offset="100%" stop-color="rgba(139,92,246,0.05)"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="avatarClip">
+      <circle cx="210" cy="170" r="70"/>
+    </clipPath>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="420" height="620" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card Background -->
+  <g clip-path="url(#cardClip)">
+    <rect width="420" height="620" fill="url(#cardBg)"/>
+
+    <!-- Decorative Elements -->
+    <circle cx="380" cy="80" r="120" fill="rgba(99,102,241,0.03)"/>
+    <circle cx="40" cy="540" r="100" fill="rgba(139,92,246,0.03)"/>
+
+    <!-- Header Accent -->
+    <rect x="20" y="15" width="380" height="100" rx="16" fill="url(#headerGrad)"/>
+
+    <!-- Tier Badge -->
+    <rect x="24" y="19" width="80" height="28" rx="14" fill="url(#accentGrad)" opacity="0.9"/>
+    <text x="64" y="38" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">GOLD</text>
+
+    <!-- Country & Club -->
+    <text x="396" y="38" font-family="Arial, sans-serif" font-size="13" fill="rgba(255,255,255,0.7)" text-anchor="end">🇮🇳 INDIA</text>
+    <text x="396" y="56" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.5)" text-anchor="end">GITHUB</text>
+
+    <!-- Player Name -->
+    <text x="24" y="85" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">HIMANSHU</text>
+    <text x="24" y="108" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.8)">BAGGA</text>
+
+    <!-- Position -->
+    <text x="396" y="90" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#fbbf24" text-anchor="end">JAVA BACKEND</text>
+    <text x="396" y="108" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.5)" text-anchor="end">DEVELOPER</text>
+
+    <!-- Avatar Glow -->
+    <circle cx="210" cy="170" r="74" fill="none" stroke="#fbbf24" stroke-width="3" opacity="0.6" filter="url(#softGlow)"/>
+    <circle cx="210" cy="170" r="72" fill="none" stroke="url(#accentGrad)" stroke-width="2"/>
+
+    <!-- Avatar -->
+    <image href="https://avatars.githubusercontent.com/u/226510850?v=4" x="140" y="100" width="140" height="140" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+
+    <!-- OVR Badge -->
+    <circle cx="210" cy="170" r="28" fill="url(#accentGrad)" filter="url(#glow)"/>
+    <circle cx="210" cy="170" r="26" fill="#0d1117"/>
+    <text x="210" y="166" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">72</text>
+    <text x="210" y="182" font-family="Arial, sans-serif" font-size="8" fill="rgba(255,255,255,0.7)" text-anchor="middle">OVR</text>
+
+    <!-- Divider -->
+    <line x1="40" y1="225" x2="380" y2="225" stroke="url(#accentGrad)" stroke-width="1" opacity="0.4"/>
+
+    <!-- Stats Section Title -->
+    <text x="210" y="250" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="rgba(255,255,255,0.6)" text-anchor="middle" letter-spacing="3">LIVE STATS</text>
+
+    <!-- Stats Grid -->
+    <!-- Row 1 -->
+    <g transform="translate(0, 265)">
+      <!-- Stars -->
+      <rect x="25" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="82" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fbbf24" text-anchor="middle">⭐ 4</text>
+      <text x="82" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">STARS</text>
+
+      <!-- Repos -->
+      <rect x="152" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="209" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6366f1" text-anchor="middle">📦 31</text>
+      <text x="209" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">REPOS</text>
+
+      <!-- Streak -->
+      <rect x="279" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="336" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ef4444" text-anchor="middle">🔥 0</text>
+      <text x="336" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">STREAK</text>
+    </g>
+
+    <!-- Row 2 -->
+    <g transform="translate(0, 325)">
+      <!-- Contributions -->
+      <rect x="25" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="82" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#22c55e" text-anchor="middle">📈 0</text>
+      <text x="82" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">CONTRIBUTIONS</text>
+
+      <!-- Followers -->
+      <rect x="152" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="209" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#8b5cf6" text-anchor="middle">👥 5</text>
+      <text x="209" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">FOLLOWERS</text>
+
+      <!-- PRs -->
+      <rect x="279" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="336" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#06b6d4" text-anchor="middle">🏆 1</text>
+      <text x="336" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">PULL REQUESTS</text>
+    </g>
+
+    <!-- Row 3 -->
+    <g transform="translate(0, 385)">
+      <!-- Forks -->
+      <rect x="25" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="82" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f97316" text-anchor="middle">🍴 0</text>
+      <text x="82" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">FORKS</text>
+
+      <!-- Issues -->
+      <rect x="152" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="209" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#ec4899" text-anchor="middle">🐛 0</text>
+      <text x="209" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">ISSUES</text>
+
+      <!-- Experience -->
+      <rect x="279" y="0" width="115" height="50" rx="10" fill="rgba(99,102,241,0.08)" stroke="rgba(99,102,241,0.15)" stroke-width="1"/>
+      <text x="336" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6366f1" text-anchor="middle">💼 2</text>
+      <text x="336" y="38" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" text-anchor="middle">INTERNSHIPS</text>
+    </g>
+
+    <!-- Divider -->
+    <line x1="40" y1="450" x2="380" y2="450" stroke="url(#accentGrad)" stroke-width="1" opacity="0.4"/>
+
+    <!-- Attributes Title -->
+    <text x="210" y="472" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="rgba(255,255,255,0.6)" text-anchor="middle" letter-spacing="3">DEVELOPER ATTRIBUTES</text>
+
+    <!-- Attributes -->
+    <g transform="translate(0, 485)">
+      <!-- Row 1 -->
+      <g transform="translate(0, 0)">
+        <rect x="25" y="0" width="55" height="35" rx="8" fill="url(#accentGrad)" opacity="0.15"/>
+        <text x="52" y="15" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fbbf24" text-anchor="middle">99</text>
+        <text x="52" y="28" font-family="Arial, sans-serif" font-size="8" fill="rgba(255,255,255,0.6)" text-anchor="middle">JAVA</text>
+
+        <rect x="90" y="0" width="55" height="35" rx="8" fill="url(#accentGrad)" opacity="0.15"/>
+        <text x="117" y="15" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fbbf24" text-anchor="middle">98</text>
+        <text x="117" y="28" font-family="Arial, sans-serif" font-size="8" fill="rgba(255,255,255,0.6)" text-anchor="middle">API</text>
+
+        <rect x="155" y="0" width="55" height="35" rx="8" fill="url(#accentGrad)" opacity="0.15"/>
+        <text x="182" y="15" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fbbf24" text-anchor="middle">64</text>
+        <text x="182" y="28" font-family="Arial, sans-serif" font-size="8" fill="rgba(255,255,255,0.6)" text-anchor="middle">DSA</text>
+      </g>
+
+      <!-- Row 2 -->
+      <g transform="translate(0, 45)">
+        <rect x="25" y="0" width="55" height="35" rx="8" fill="url(#accentGrad)" opacity="0.15"/>
+        <text x="52" y="15" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fbbf24" text-anchor="middle">99</text>
+        <text x="52" y="28" font-family="Arial, sans-serif" font-size="8" fill="rgba(255,255,255,0.6)" text-anchor="middle">DB</text>
+
+        <rect x="90" y="0" width="55" height="35" rx="8" fill="url(#accentGrad)" opacity="0.15"/>
+        <text x="117" y="15" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fbbf24" text-anchor="middle">62</text>
+        <text x="117" y="28" font-family="Arial, sans-serif" font-size="8" fill="rgba(255,255,255,0.6)" text-anchor="middle">SYS</text>
+
+        <rect x="155" y="0" width="55" height="35" rx="8" fill="url(#accentGrad)" opacity="0.15"/>
+        <text x="182" y="15" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fbbf24" text-anchor="middle">99</text>
+        <text x="182" y="28" font-family="Arial, sans-serif" font-size="8" fill="rgba(255,255,255,0.6)" text-anchor="middle">DEV</text>
+      </g>
+    </g>
+
+    <!-- Special Badges -->
+    <g transform="translate(0, 575)">
+      <line x1="40" y1="-15" x2="380" y2="-15" stroke="url(#accentGrad)" stroke-width="1" opacity="0.3"/>
+      <text x="210" y="0" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="rgba(255,255,255,0.6)" text-anchor="middle" letter-spacing="3">SPECIAL BADGES</text>
+
+      <!-- Badges -->
+      <g transform="translate(0, 12)">
+        <rect x="25" y="0" width="170" height="22" rx="11" fill="rgba(251,191,36,0.1)" stroke="rgba(251,191,36,0.3)" stroke-width="1"/>
+        <text x="110" y="15" font-family="Arial, sans-serif" font-size="10" fill="#fbbf24" text-anchor="middle">🏆 Research Paper Published</text>
+
+        <rect x="205" y="0" width="190" height="22" rx="11" fill="rgba(99,102,241,0.1)" stroke="rgba(99,102,241,0.3)" stroke-width="1"/>
+        <text x="300" y="15" font-family="Arial, sans-serif" font-size="10" fill="#818cf8" text-anchor="middle">🌍 Microsoft · SAP Certified</text>
+      </g>
+    </g>
+
+    <!-- Footer -->
+    <text x="210" y="608" font-family="Arial, sans-serif" font-size="9" fill="rgba(255,255,255,0.3)" text-anchor="middle">Auto-generated from GitHub stats • 2026-07-29</text>
+  </g>
+</svg>

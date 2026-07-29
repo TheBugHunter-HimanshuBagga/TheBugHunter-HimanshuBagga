@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://github.com/TheBugHunter-HimanshuBagga.png" width="150" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 60px rgba(99,102,241,0.4);"/>
+<img src="assets/developer-card.svg" alt="Developer Card" width="420"/>
 
 <br/><br/>
 
