@@ -78,11 +78,11 @@ public class HimanshuBagga {
 <tr>
 <td width="50%" valign="top">
 
-### ⭐ Java Developer Intern
+### 🏢 Java Developer Intern
 
 **Judge India Solutions (The Judge Group)**
 
-`2024 - Present`
+📅 `June 2026 – July 2026` · 2 Months
 
 Building a GIS-enabled enterprise platform using modern backend technologies.
 
@@ -105,11 +105,11 @@ Building a GIS-enabled enterprise platform using modern backend technologies.
 </td>
 <td width="50%" valign="top">
 
-### ⭐ Backend Developer Intern
+### 🏢 Backend Developer Intern
 
 **Sentinel Layer (SaaS Startup)**
 
-`2024 - Present`
+📅 `June 2025 – Present`
 
 Building scalable SaaS backend systems and production-ready features.
 
@@ -148,10 +148,10 @@ Building scalable SaaS backend systems and production-ready features.
 
 <div align="center">
 
-| 💧 Flood Damage Assessment Portal | 📚 Dokify |
+| 🌊 Disaster Damage Assessment Portal | ✨ Lovable Clone SpringBoot |
 |:---:|:---:|
-| Full-stack disaster management platform | Online notes sharing platform |
-| `Spring Boot` `React.js` `PostgreSQL` | `Spring Boot` `JWT` `MySQL` |
+| Full-stack disaster management platform | AI-powered website builder |
+| `Spring Boot` `MySQL` `JWT` | `Spring Boot` `React.js` `PostgreSQL` |
 
 | 🔗 LinkUP | 🍃 Food Waste Management |
 |:---:|:---:|
@@ -232,17 +232,20 @@ Building scalable SaaS backend systems and production-ready features.
 <tr>
 <td width="50%" valign="top">
 
-### 💧 Flood Damage Assessment Portal
+### 🌊 Disaster Damage Assessment Portal
 
-> Full-stack disaster management platform with real-time reporting.
+> A full-stack disaster management platform for digital disaster reporting, field inspections, damage assessment, and compensation management.
 
 **Features:**
-- Authentication & Role Based Access Control
-- Geo-tagged Damage Reports
-- Image Uploads & Admin Dashboard
-- Real-time Notification System
+- Secure Authentication & Authorization
+- Role-Based Access Control
+- Disaster Reporting Workflow
+- Field Inspection Management
+- Damage Assessment & Compensation
+- Admin Dashboard
+- Responsive UI
 
-**Tech:** `Spring Boot` `React.js` `PostgreSQL` `JWT` `Redis`
+**Tech:** `Spring Boot` `Spring Security` `MySQL` `HTML` `CSS` `JavaScript` `JWT`
 
 <br/>
 
@@ -261,17 +264,20 @@ Building scalable SaaS backend systems and production-ready features.
 </td>
 <td width="50%" valign="top">
 
-### 📚 Dokify
+### ✨ Lovable Clone SpringBoot
 
-> Online notes sharing platform for students and professionals.
+> A full-stack AI-powered website builder inspired by Lovable.dev, built with Spring Boot.
 
 **Features:**
+- AI-powered website generation
+- Prompt-based project creation
 - Secure Authentication
-- CRUD Operations
-- Search & Filter
-- Responsive UI
+- Project Management
+- AI-assisted Code Generation
+- Responsive Dashboard
+- REST APIs
 
-**Tech:** `Spring Boot` `JWT` `MySQL` `React.js`
+**Tech:** `Spring Boot` `Spring Security` `Java` `React.js` `PostgreSQL` `JWT`
 
 <br/>
 
