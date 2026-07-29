@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- Hero Section with Profile Photo -->
-<img src="https://github.com/TheBugHunter-HimanshuBagga.png" width="150" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99,102,241,0.4);"/>
+<img src="https://github.com/TheBugHunter-HimanshuBagga.png" width="140" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 40px rgba(99,102,241,0.5);"/>
 
-# Hello 👋, I'm Himanshu Bagga
+<br/><br/>
 
-### Java Backend Developer | Building Scalable Systems with Spring Boot
+# **HIMANSHU BAGGA**
+
+### Java Backend Developer
 
 <br/>
 
@@ -13,11 +14,20 @@
 
 <br/>
 
-<a href="https://github.com/TheBugHunter-HimanshuBagga" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://leetcode.com/u/Himanshu_bagga/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:himanshu.bagga@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/TheBugHunter-HimanshuBagga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="#"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://leetcode.com/u/Himanshu_bagga/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="mailto:himanshu.bagga@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=TheBugHunter-HimanshuBagga&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -26,38 +36,14 @@
 ---
 
 <br/>
-
-<!-- About Section -->
-<div align="center">
 
 ## 👨‍💻 About Me
 
-</div>
-
 <br/>
 
-<div align="center">
+I'm a **Java Backend Developer** passionate about designing scalable systems and solving real-world engineering problems. Currently building production-ready software with **Spring Boot**, **System Design**, and **Distributed Architecture**.
 
-```java
-public class HimanshuBagga {
-    private final String name = "Himanshu Bagga";
-    private final String role = "Java Backend Developer";
-    private final String status = "B.Tech CS @ SRM Institute of Science and Technology";
-    
-    private final String[] passions = {
-        "Designing scalable backend systems",
-        "Building enterprise applications",
-        "Solving real-world engineering problems",
-        "Exploring advanced backend architecture"
-    };
-    
-    public void build() {
-        System.out.println("Building the future, one microservice at a time.");
-    }
-}
-```
-
-</div>
+I enjoy working on enterprise applications that demand reliability, performance, and clean architecture. My focus is on building backend systems that scale.
 
 <br/>
 
@@ -65,45 +51,35 @@ public class HimanshuBagga {
 
 <br/>
 
-<!-- Experience Section -->
-<div align="center">
-
 ## 💼 Experience
-
-</div>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 24px;">
 
 ### 🏢 Java Developer Intern
 
 **Judge India Solutions (The Judge Group)**
 
-📅 `June 2026 – July 2026` · 2 Months
+📅 `June 2026 – July 2026`
 
-Building a GIS-enabled enterprise platform using modern backend technologies.
-
-**Key Contributions:**
-
-- Built enterprise backend services using **Spring Boot**
-- Designed secure authentication with **Spring Security, JWT, RBAC**
-- Developed scalable **REST APIs**
-- Built **GIS-enabled modules** using PostgreSQL + PostGIS
-- Integrated **Redis caching** for performance
-- Implemented **ActiveMQ** for async messaging
-- Built **real-time features** using WebSockets
-- Developed **Audit Logging** & **Record & Replay**
-- Built **Document Management** services
+Built a GIS-enabled enterprise platform using modern backend technologies.
 
 **Tech Stack:**
 
-`Java` `Spring Boot` `Spring Security` `JWT` `Redis` `PostgreSQL` `PostGIS` `ActiveMQ` `WebSockets` `Docker`
+`Spring Boot` `PostgreSQL/PostGIS` `JWT` `Redis` `ActiveMQ` `WebSockets` `Docker`
+
+**Key Highlights:**
+
+- Enterprise Authentication & RBAC
+- GIS Analytics & Real-time Dashboards
+- Audit Logging & Record Replay
+- Document Management Services
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 24px;">
 
 ### 🏢 Backend Developer Intern
 
@@ -113,19 +89,16 @@ Building a GIS-enabled enterprise platform using modern backend technologies.
 
 Building scalable SaaS backend systems and production-ready features.
 
-**Key Contributions:**
-
-- Building new **backend features**
-- Designing scalable **REST APIs**
-- Working on **authentication & authorization**
-- Designing **pricing systems**
-- Working on **team management modules**
-- Improving **backend architecture**
-- Writing **production-ready** backend code
-
 **Tech Stack:**
 
 `Java` `Spring Boot` `REST APIs` `JWT` `PostgreSQL` `Redis` `Docker` `Git`
+
+**Key Highlights:**
+
+- Production SaaS Backend
+- Authentication & Authorization
+- Pricing Systems & Architecture Design
+- Performance Optimization
 
 </td>
 </tr>
@@ -137,28 +110,52 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/>
 
-<!-- Currently Building Section -->
-<div align="center">
-
 ## 🔧 Currently Building
-
-</div>
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 20px;">
 
-| 🌊 Disaster Damage Assessment Portal | ✨ Lovable Clone SpringBoot |
-|:---:|:---:|
-| Full-stack disaster management platform | AI-powered website builder |
-| `Spring Boot` `MySQL` `JWT` | `Spring Boot` `React.js` `PostgreSQL` |
+### 🌊 Disaster Damage Assessment Portal
 
-| 🔗 LinkUP | 🍃 Food Waste Management |
-|:---:|:---:|
-| Professional networking platform | Donation tracking & inventory system |
-| `JWT` `Pagination` `Sorting` | `Spring Boot` `React` `PostgreSQL` |
+Full-stack disaster management platform
 
-</div>
+`Spring Boot` `MySQL` `JWT`
+
+</td>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 20px;">
+
+### ✨ Lovable Clone
+
+AI-powered website builder
+
+`Spring Boot` `React.js` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 20px;">
+
+### 🔗 LinkUP
+
+Professional networking platform
+
+`JWT` `Redis` `WebSocket` `Docker`
+
+</td>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 20px;">
+
+### ⚙️ Advanced Java Backend
+
+Deep dive into enterprise architecture
+
+`Spring Boot` `System Design` `Microservices`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -166,22 +163,15 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/>
 
-<!-- Tech Stack Section -->
-<div align="center">
-
 ## 💻 Tech Stack
-
-</div>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.1) 0%, rgba(139,92,246,0.05) 100%); border: 1px solid rgba(99,102,241,0.2); border-radius: 16px; padding: 24px;">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 24px;">
 
 ### ☕ Backend
-
-<br/>
 
 <table>
 <tr>
@@ -231,11 +221,9 @@ Building scalable SaaS backend systems and production-ready features.
 </table>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(99,102,241,0.05) 100%); border: 1px solid rgba(139,92,246,0.2); border-radius: 16px; padding: 24px;">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 24px;">
 
 ### ⚛️ Frontend
-
-<br/>
 
 <table>
 <tr>
@@ -264,7 +252,7 @@ Building scalable SaaS backend systems and production-ready features.
 <td align="center" width="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 <br/>
-<sub><b>Tailwind CSS</b></sub>
+<sub><b>Tailwind</b></sub>
 </td>
 <td align="center" width="80"></td>
 <td align="center" width="80"></td>
@@ -280,11 +268,9 @@ Building scalable SaaS backend systems and production-ready features.
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.1) 0%, rgba(139,92,246,0.05) 100%); border: 1px solid rgba(99,102,241,0.2); border-radius: 16px; padding: 24px;">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 24px;">
 
 ### 🗄️ Database
-
-<br/>
 
 <table>
 <tr>
@@ -299,7 +285,7 @@ Building scalable SaaS backend systems and production-ready features.
 <sub><b>PostgreSQL</b></sub>
 </td>
 <td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 <br/>
 <sub><b>H2</b></sub>
 </td>
@@ -308,16 +294,14 @@ Building scalable SaaS backend systems and production-ready features.
 </table>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(99,102,241,0.05) 100%); border: 1px solid rgba(139,92,246,0.2); border-radius: 16px; padding: 24px;">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 24px;">
 
 ### ☁️ Cloud & DevOps
-
-<br/>
 
 <table>
 <tr>
 <td align="center" width="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <br/>
 <sub><b>AWS</b></sub>
 </td>
@@ -343,18 +327,16 @@ Building scalable SaaS backend systems and production-ready features.
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.1) 0%, rgba(139,92,246,0.05) 100%); border: 1px solid rgba(99,102,241,0.2); border-radius: 16px; padding: 24px;">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 24px;">
 
 ### 🛠️ Tools
-
-<br/>
 
 <table>
 <tr>
 <td align="center" width="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
 <br/>
-<sub><b>IntelliJ IDEA</b></sub>
+<sub><b>IntelliJ</b></sub>
 </td>
 <td align="center" width="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -375,11 +357,9 @@ Building scalable SaaS backend systems and production-ready features.
 </table>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.1) 0%, rgba(99,102,241,0.05) 100%); border: 1px solid rgba(139,92,246,0.2); border-radius: 16px; padding: 24px;">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 24px;">
 
 ### 💬 Languages
-
-<br/>
 
 <table>
 <tr>
@@ -416,18 +396,13 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/>
 
-<!-- Featured Projects Section -->
-<div align="center">
-
 ## 🚀 Featured Projects
-
-</div>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 24px;">
 
 ### 🌊 Disaster Damage Assessment Portal
 
@@ -440,11 +415,29 @@ Building scalable SaaS backend systems and production-ready features.
 - Field Inspection Management
 - Damage Assessment & Compensation
 - Admin Dashboard
-- Responsive UI
 
-**Tech:** `Spring Boot` `Spring Security` `MySQL` `HTML` `CSS` `JavaScript` `JWT`
+**Tech:** `Spring Boot` `Spring Security` `MySQL` `JWT`
 
-<br/>
+</td>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 24px;">
+
+### ✨ Lovable Clone SpringBoot
+
+> AI-powered website builder inspired by Lovable.dev with authentication, project management and AI-assisted generation.
+
+**Features:**
+- AI-powered website generation
+- Prompt-based project creation
+- Secure Authentication
+- Project Management
+- AI-assisted Code Generation
+
+**Tech:** `Spring Boot` `React.js` `PostgreSQL` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 24px;">
 
 ### 🔗 LinkUP
 
@@ -456,27 +449,10 @@ Building scalable SaaS backend systems and production-ready features.
 - Secure REST APIs
 - User Profile Management
 
-**Tech:** `Spring Boot` `JWT` `PostgreSQL` `REST APIs`
+**Tech:** `Spring Boot` `JWT` `Redis` `WebSocket` `Docker`
 
 </td>
-<td width="50%" valign="top">
-
-### ✨ Lovable Clone SpringBoot
-
-> A full-stack AI-powered website builder inspired by Lovable.dev, built with Spring Boot.
-
-**Features:**
-- AI-powered website generation
-- Prompt-based project creation
-- Secure Authentication
-- Project Management
-- AI-assisted Code Generation
-- Responsive Dashboard
-- REST APIs
-
-**Tech:** `Spring Boot` `Spring Security` `Java` `React.js` `PostgreSQL` `JWT`
-
-<br/>
+<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 24px;">
 
 ### 🍃 Food Waste Management System
 
@@ -488,7 +464,7 @@ Building scalable SaaS backend systems and production-ready features.
 - Role-based Access Control
 - Real-time Updates
 
-**Tech:** `Spring Boot` `React.js` `PostgreSQL`
+**Tech:** `Spring Boot` `React` `MySQL`
 
 </td>
 </tr>
@@ -500,12 +476,138 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/>
 
-<!-- GitHub Analytics Section -->
-<div align="center">
+## ✨ Highlights
 
-## 📊 GitHub Analytics
+<br/>
+
+<table>
+<tr>
+<td align="center" width="20%" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 20px;">
+
+🏆
+
+**Research Paper Published**
+
+</td>
+<td align="center" width="20%" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 20px;">
+
+🌍
+
+**Global Certifications**
+
+</td>
+<td align="center" width="20%" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 20px;">
+
+🚀
+
+**Hackathon Finalist**
+
+</td>
+<td align="center" width="20%" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 20px;">
+
+☁️
+
+**Oracle AI Certified**
+
+</td>
+<td align="center" width="20%" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 20px;">
+
+💡
+
+**SIH Participant**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 📄 Research Publication
+
+<br/>
+
+<div style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 24px;">
+
+### 📝 Peer-Reviewed Conference Publication
+
+**Conference:** 4th ICICACS 2026
+
+A peer-reviewed research paper published at the International Conference on Inventive Computing and Advanced Systems.
+
+[📄 View Publication](#) <!-- REPLACE: Add your paper link here -->
 
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🎓 Global Certifications
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 20px;">
+
+**Microsoft**
+
+SQL AI Developer Associate
+
+</td>
+<td width="33%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 20px;">
+
+**SAP**
+
+Global Certification
+
+</td>
+<td width="34%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 20px;">
+
+**Oracle Cloud**
+
+OCI 2025 AI Foundations Associate
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 20px;">
+
+**AWS Academy**
+
+Machine Learning Foundations
+
+</td>
+<td width="33%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.08) 0%, rgba(139,92,246,0.04) 100%); border: 1px solid rgba(99,102,241,0.15); border-radius: 16px; padding: 20px;">
+
+**Coursera**
+
+Supervised Machine Learning
+
+</td>
+<td width="34%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.08) 0%, rgba(99,102,241,0.04) 100%); border: 1px solid rgba(139,92,246,0.15); border-radius: 16px; padding: 20px;">
+
+**Coursera**
+
+Advanced Learning Algorithms
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <br/>
 
@@ -538,26 +640,13 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/>
 
-<!-- Certifications Section -->
-<div align="center">
-
-## 🎓 Certifications
-
-</div>
+## 🐍 Contribution Snake
 
 <br/>
 
 <div align="center">
 
-| ☁️ AWS Cloud Virtual Internship | 📖 NPTEL - OOP in C++ |
-|:---:|:---:|
-| **Forage** | **NPTEL** |
-| Cloud Computing & AWS Services | Object-Oriented Programming |
-
-| 🤖 Machine Learning Specialization | 🧠 Deep Learning Specialization |
-|:---:|:---:|
-| **Coursera** | **Coursera** |
-| ML Algorithms & Applications | Neural Networks & Deep Learning |
+<img src="https://raw.githubusercontent.com/TheBugHunter-HimanshuBagga/TheBugHunter-HimanshuBagga/output/github-snake-dark.svg" alt="GitHub Snake" width="100%"/>
 
 </div>
 
@@ -566,45 +655,19 @@ Building scalable SaaS backend systems and production-ready features.
 ---
 
 <br/>
-
-<!-- Achievements Section -->
-<div align="center">
-
-## 🏆 Achievements
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`🏆 Problem Solving` `☕ Java` `🍃 Spring Boot` `⚛️ React.js` `⚙️ Backend Development` `🌐 Open Source` `🔀 Git`
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Connect Section -->
-<div align="center">
 
 ## 🤝 Let's Connect
 
-</div>
-
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/TheBugHunter-HimanshuBagga" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://leetcode.com/u/Himanshu_bagga/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:himanshu.bagga@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://github.com/TheBugHunter-HimanshuBagga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="#"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://leetcode.com/u/Himanshu_bagga/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="mailto:himanshu.bagga@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -613,8 +676,6 @@ Building scalable SaaS backend systems and production-ready features.
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheBugHunter-HimanshuBagga&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Building scalable backend systems, one commit at a time."*
 
