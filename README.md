@@ -855,8 +855,8 @@ Advanced Learning Algorithms
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheBugHunter-HimanshuBagga&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=6366f1" width="480"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBugHunter-HimanshuBagga&theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=8b5cf6&currStreakLabel=c084fc" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheBugHunter-HimanshuBagga&show_icons=true&theme=radical&hide_border=true" width="480"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBugHunter-HimanshuBagga&theme=radical&hide_border=true" width="480"/>
 
 </div>
 
@@ -864,7 +864,7 @@ Advanced Learning Algorithms
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBugHunter-HimanshuBagga&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBugHunter-HimanshuBagga&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400"/>
 
 </div>
 
