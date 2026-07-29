@@ -106,7 +106,7 @@
         <text x="167" y="34" font-family="system-ui, sans-serif" font-size="7" fill="rgba(255,255,255,0.3)" text-anchor="middle" letter-spacing="1">REPOS</text>
 
         <rect x="230" y="0" width="120" height="42" rx="10" fill="rgba(255,215,0,0.025)" stroke="rgba(255,215,0,0.06)" stroke-width="0.5"/>
-        <text x="290" y="20" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#22c55e" text-anchor="middle">📈 0</text>
+        <text x="290" y="20" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#22c55e" text-anchor="middle">📈 500+</text>
         <text x="290" y="34" font-family="system-ui, sans-serif" font-size="7" fill="rgba(255,255,255,0.3)" text-anchor="middle" letter-spacing="1">CONTRIBUTIONS</text>
       </g>
 
