@@ -72,13 +72,16 @@ function calculateSkills(stats) {
 }
 
 function generateSVG(data) {
-  const { stats, avatarUrl } = data;
+  const { stats } = data;
   const level = getLevel(stats.contributions, stats.stars, stats.repos, stats.followers);
   const rank = getRank(stats.contributions, stats.stars, stats.repos, stats.followers);
   const skills = calculateSkills(stats);
   const levelProgress = (level % 10) * 10;
+  
+  // Use the user's uploaded image from repo
+  const profileSrc = 'https://raw.githubusercontent.com/TheBugHunter-HimanshuBagga/TheBugHunter-HimanshuBagga/main/assets/image.png';
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 900" width="420" height="900">
+  return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 1000" width="420" height="1000">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#030303"/>
@@ -114,19 +117,19 @@ function generateSVG(data) {
       <ellipse cx="210" cy="180" rx="120" ry="140"/>
     </clipPath>
     <clipPath id="cardClip">
-      <rect width="420" height="900" rx="24"/>
+      <rect width="420" height="1000" rx="24"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#cardClip)">
-    <rect width="420" height="900" fill="url(#bg)"/>
+    <rect width="420" height="1000" fill="url(#bg)"/>
 
     <!-- Background Light -->
     <rect width="420" height="450" fill="url(#portraitLight)"/>
 
     <!-- Portrait Area (45% of card) -->
     <g>
-      <image href="${avatarUrl}" x="55" y="10" width="310" height="380" clip-path="url(#portraitClip)" preserveAspectRatio="xMidYMid slice"/>
+      <image href="${profileSrc}" x="55" y="10" width="310" height="380" clip-path="url(#portraitClip)" preserveAspectRatio="xMidYMid slice"/>
       <rect width="420" height="450" fill="url(#portraitGrad)"/>
     </g>
 
@@ -154,16 +157,16 @@ function generateSVG(data) {
     </g>
 
     <!-- Name -->
-    <text x="210" y="470" font-family="system-ui, sans-serif" font-size="32" font-weight="800" fill="white" text-anchor="middle" letter-spacing="1">HIMANSHU BAGGA</text>
+    <text x="210" y="500" font-family="system-ui, sans-serif" font-size="32" font-weight="800" fill="white" text-anchor="middle" letter-spacing="1">HIMANSHU BAGGA</text>
 
     <!-- Role -->
-    <text x="210" y="498" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="3">JAVA BACKEND DEVELOPER</text>
+    <text x="210" y="530" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="3">JAVA BACKEND DEVELOPER</text>
 
     <!-- Subtitle -->
-    <text x="210" y="520" font-family="system-ui, sans-serif" font-size="11" fill="rgba(255,255,255,0.25)" text-anchor="middle" font-style="italic">Building scalable backend systems.</text>
+    <text x="210" y="555" font-family="system-ui, sans-serif" font-size="11" fill="rgba(255,255,255,0.25)" text-anchor="middle" font-style="italic">Building scalable backend systems.</text>
 
     <!-- Level Section -->
-    <g transform="translate(35, 555)">
+    <g transform="translate(35, 595)">
       <text x="0" y="12" font-family="system-ui, sans-serif" font-size="9" fill="rgba(255,215,0,0.5)" letter-spacing="2" font-weight="600">DEVELOPER LEVEL</text>
       <text x="350" y="12" font-family="system-ui, sans-serif" font-size="22" font-weight="800" fill="white" text-anchor="end">LEVEL ${level}</text>
       <rect x="0" y="22" width="350" height="5" rx="2.5" fill="rgba(255,215,0,0.05)"/>
@@ -172,7 +175,7 @@ function generateSVG(data) {
     </g>
 
     <!-- Stats Section -->
-    <g transform="translate(35, 618)">
+    <g transform="translate(35, 665)">
       <line x1="0" y1="0" x2="350" y2="0" stroke="rgba(255,215,0,0.06)" stroke-width="0.5"/>
 
       <!-- Row 1 -->
@@ -207,7 +210,7 @@ function generateSVG(data) {
     </g>
 
     <!-- Skills Section -->
-    <g transform="translate(35, 735)">
+    <g transform="translate(35, 800)">
       <line x1="0" y1="0" x2="350" y2="0" stroke="rgba(255,215,0,0.06)" stroke-width="0.5"/>
       <text x="0" y="20" font-family="system-ui, sans-serif" font-size="9" fill="rgba(255,215,0,0.5)" letter-spacing="2" font-weight="600">CORE EXPERTISE</text>
 
@@ -222,7 +225,7 @@ function generateSVG(data) {
     </g>
 
     <!-- Achievements -->
-    <g transform="translate(35, 855)">
+    <g transform="translate(35, 955)">
       <line x1="0" y1="0" x2="350" y2="0" stroke="rgba(255,215,0,0.06)" stroke-width="0.5"/>
 
       <g transform="translate(0, 15)">
@@ -263,7 +266,7 @@ function generateSVG(data) {
     </g>
 
     <!-- Footer -->
-    <text x="210" y="893" font-family="system-ui, sans-serif" font-size="7" fill="rgba(255,255,255,0.1)" text-anchor="middle">Auto-generated from GitHub stats • ${new Date().toISOString().split('T')[0]}</text>
+    <text x="210" y="993" font-family="system-ui, sans-serif" font-size="7" fill="rgba(255,255,255,0.1)" text-anchor="middle">Auto-generated from GitHub stats • ${new Date().toISOString().split('T')[0]}</text>
   </g>
 </svg>`;
 }
