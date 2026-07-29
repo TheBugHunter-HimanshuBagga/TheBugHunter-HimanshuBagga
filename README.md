@@ -646,7 +646,7 @@ Advanced Learning Algorithms
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheBugHunter-HimanshuBagga/TheBugHunter-HimanshuBagga/output/github-snake-dark.svg" alt="GitHub Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/TheBugHunter-HimanshuBagga/TheBugHunter-HimanshuBagga/main/github-snake.svg" alt="GitHub Snake" width="100%"/>
 
 </div>
 
