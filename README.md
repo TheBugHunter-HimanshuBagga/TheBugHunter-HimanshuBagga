@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./portrait.svg" width="380" alt="Portrait"/></td>
+    <td valign="top"><img src="./portrait.png" width="380" alt="Portrait"/></td>
     <td valign="top"><img src="./sysinfo.svg" width="480" alt="System Info"/></td>
   </tr>
 </table>
