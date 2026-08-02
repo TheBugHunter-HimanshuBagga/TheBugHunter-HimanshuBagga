@@ -1,150 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 480" width="520" height="480">
-  <rect width="520" height="480" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <style>
-    text { font-family: 'Courier New', Consolas, monospace; }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 440" width="480" height="440">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="480" height="440" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
   <!-- Title bar -->
-  <rect width="520" height="32" rx="8" fill="#161b22"/>
-  <rect y="24" width="520" height="8" fill="#161b22"/>
-  <circle cx="16" cy="16" r="5" fill="#ff5f57"/>
-  <circle cx="34" cy="16" r="5" fill="#febc2e"/>
-  <circle cx="52" cy="16" r="5" fill="#28c840"/>
-  <text x="260" y="21" font-size="11" fill="#8b949e" text-anchor="middle">himanshu@terminal ~ $</text>
-  <rect x="390" y="10" width="8" height="16" fill="#1c7ed6">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  <rect width="480" height="36" rx="10" fill="url(#bar)"/>
+  <rect y="28" width="480" height="8" fill="url(#bar)"/>
+  <circle cx="18" cy="18" r="5" fill="#ff5f57"/>
+  <circle cx="36" cy="18" r="5" fill="#febc2e"/>
+  <circle cx="54" cy="18" r="5" fill="#28c840"/>
+  <text x="240" y="22" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="11" fill="#484f58" text-anchor="middle">himanshu — zsh — 80x24</text>
+
+  <!-- Content area -->
+  <g font-family="'SF Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace" font-size="12.5">
+
+    <!-- Prompt: role -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.1s" fill="freeze"/>
+      <text x="20" y="68" fill="#1c7ed6" font-weight="600">❯</text>
+      <text x="36" y="68" fill="#58a6ff">role</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.25s" fill="freeze"/>
+      <text x="36" y="88" fill="#c9d1d9">Java Backend Developer</text>
+    </g>
+
+    <!-- Prompt: name -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.4s" fill="freeze"/>
+      <text x="20" y="118" fill="#1c7ed6" font-weight="600">❯</text>
+      <text x="36" y="118" fill="#58a6ff">name</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.55s" fill="freeze"/>
+      <text x="36" y="138" fill="#c9d1d9">Himanshu Bagga</text>
+    </g>
+
+    <!-- Prompt: education -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.7s" fill="freeze"/>
+      <text x="20" y="168" fill="#1c7ed6" font-weight="600">❯</text>
+      <text x="36" y="168" fill="#58a6ff">education</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.85s" fill="freeze"/>
+      <text x="36" y="188" fill="#c9d1d9">B.Tech CSE  •  SRM IST</text>
+    </g>
+
+    <!-- Prompt: current -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze"/>
+      <text x="20" y="218" fill="#1c7ed6" font-weight="600">❯</text>
+      <text x="36" y="218" fill="#58a6ff">current</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.15s" fill="freeze"/>
+      <text x="36" y="238" fill="#c9d1d9">Building Disaster Damage Assessment Portal</text>
+    </g>
+
+    <!-- Prompt: experience -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.3s" fill="freeze"/>
+      <text x="20" y="268" fill="#1c7ed6" font-weight="600">❯</text>
+      <text x="36" y="268" fill="#58a6ff">experience</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.45s" fill="freeze"/>
+      <text x="36" y="288" fill="#c9d1d9">Java Developer Intern  @  Judge India Solutions</text>
+    </g>
+
+    <!-- Prompt: previous -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.6s" fill="freeze"/>
+      <text x="20" y="318" fill="#1c7ed6" font-weight="600">❯</text>
+      <text x="36" y="318" fill="#58a6ff">previous</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.75s" fill="freeze"/>
+      <text x="36" y="338" fill="#c9d1d9">Backend Intern  @  Sentinel Layer</text>
+    </g>
+
+    <!-- Prompt: stack -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.9s" fill="freeze"/>
+      <text x="20" y="368" fill="#1c7ed6" font-weight="600">❯</text>
+      <text x="36" y="368" fill="#58a6ff">stack</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.05s" fill="freeze"/>
+      <text x="36" y="388" fill="#c9d1d9">Java • Spring Boot • MySQL • Redis • Docker • AWS</text>
+    </g>
+
+    <!-- Prompt: learning -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.2s" fill="freeze"/>
+      <text x="20" y="418" fill="#1c7ed6" font-weight="600">❯</text>
+      <text x="36" y="418" fill="#58a6ff">learning</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.35s" fill="freeze"/>
+      <text x="36" y="438" fill="#c9d1d9">System Design • Spring Security • Redis • Docker</text>
+    </g>
+  </g>
+
+  <!-- Cursor -->
+  <rect x="20" y="428" width="7" height="14" fill="#1c7ed6" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" dur="1.2s" begin="2.5s" repeatCount="indefinite"/>
   </rect>
-
-  <!-- Row 1: role -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0s" fill="freeze"/>
-    <text x="20" y="62" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; role</text>
-    <text x="120" y="62" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v0"><rect x="136" y="48" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="0.1s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="62" font-size="13" fill="#c9d1d9" clip-path="url(#v0)">Java Backend Developer</text>
-  </g>
-
-  <!-- Row 2: name -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.12s" fill="freeze"/>
-    <text x="20" y="92" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; name</text>
-    <text x="120" y="92" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v1"><rect x="136" y="78" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="0.22s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="92" font-size="13" fill="#c9d1d9" clip-path="url(#v1)">Himanshu Bagga</text>
-  </g>
-
-  <!-- Row 3: focus -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.24s" fill="freeze"/>
-    <text x="20" y="122" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; focus</text>
-    <text x="120" y="122" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v2"><rect x="136" y="108" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="0.34s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="122" font-size="13" fill="#c9d1d9" clip-path="url(#v2)">Scalable Systems · Distributed Architecture</text>
-  </g>
-
-  <!-- Row 4: stack -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.36s" fill="freeze"/>
-    <text x="20" y="152" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; stack</text>
-    <text x="120" y="152" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v3"><rect x="136" y="138" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="0.46s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="152" font-size="13" fill="#c9d1d9" clip-path="url(#v3)">Java · Spring Boot · PostgreSQL · Redis · Docker</text>
-  </g>
-
-  <!-- Row 5: now -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.48s" fill="freeze"/>
-    <text x="20" y="182" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; now</text>
-    <text x="120" y="182" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v4"><rect x="136" y="168" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="0.58s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="182" font-size="13" fill="#c9d1d9" clip-path="url(#v4)">Building Disaster Damage Assessment Portal</text>
-  </g>
-
-  <!-- Row 6: exp1 -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.6s" fill="freeze"/>
-    <text x="20" y="212" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; exp</text>
-    <text x="120" y="212" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v5"><rect x="136" y="198" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="0.7s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="212" font-size="13" fill="#c9d1d9" clip-path="url(#v5)">Java Dev Intern @ Judge India Solutions</text>
-  </g>
-
-  <!-- Row 7: exp2 -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.72s" fill="freeze"/>
-    <text x="20" y="242" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; exp2</text>
-    <text x="120" y="242" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v6"><rect x="136" y="228" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="0.82s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="242" font-size="13" fill="#c9d1d9" clip-path="url(#v6)">Backend Dev Intern @ Sentinel Layer</text>
-  </g>
-
-  <!-- Row 8: edu -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.84s" fill="freeze"/>
-    <text x="20" y="272" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; edu</text>
-    <text x="120" y="272" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v7"><rect x="136" y="258" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="0.94s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="272" font-size="13" fill="#c9d1d9" clip-path="url(#v7)">B.Tech · Microsoft · SAP · Oracle · AWS Certified</text>
-  </g>
-
-  <!-- Row 9: pub -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.96s" fill="freeze"/>
-    <text x="20" y="302" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; pub</text>
-    <text x="120" y="302" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v8"><rect x="136" y="288" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="1.06s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="302" font-size="13" fill="#c9d1d9" clip-path="url(#v8)">ICICACS 2026 — Peer-Reviewed Publication</text>
-  </g>
-
-  <!-- Row 10: hack -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.08s" fill="freeze"/>
-    <text x="20" y="332" font-size="13" fill="#1c7ed6" font-weight="bold">&gt; hack</text>
-    <text x="120" y="332" font-size="13" fill="#8b949e">:</text>
-    <clipPath id="v9"><rect x="136" y="318" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="0.5s" begin="1.18s" fill="freeze"/></rect></clipPath>
-    <text x="136" y="332" font-size="13" fill="#c9d1d9" clip-path="url(#v9)">Smart India Hackathon Participant</text>
-  </g>
-
-  <!-- Separator -->
-  <line x1="20" y1="352" x2="500" y2="352" stroke="#30363d" stroke-width="1" opacity="0"/>
-
-  <!-- Stack visualization -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>
-    <text x="20" y="378" font-size="11" fill="#8b949e">// tech proficiency</text>
-
-    <!-- Java -->
-    <text x="20" y="400" font-size="11" fill="#c9d1d9">Java</text>
-    <rect x="100" y="390" width="0" height="10" rx="2" fill="#1c7ed6">
-      <animate attributeName="width" from="0" to="320" dur="0.8s" begin="1.5s" fill="freeze"/>
-    </rect>
-    <text x="428" y="400" font-size="10" fill="#8b949e">95%</text>
-
-    <!-- Spring Boot -->
-    <text x="20" y="418" font-size="11" fill="#c9d1d9">Spring</text>
-    <rect x="100" y="408" width="0" height="10" rx="2" fill="#1c7ed6">
-      <animate attributeName="width" from="0" to="290" dur="0.8s" begin="1.6s" fill="freeze"/>
-    </rect>
-    <text x="428" y="418" font-size="10" fill="#8b949e">90%</text>
-
-    <!-- PostgreSQL -->
-    <text x="20" y="436" font-size="11" fill="#c9d1d9">Postgres</text>
-    <rect x="100" y="426" width="0" height="10" rx="2" fill="#1c7ed6">
-      <animate attributeName="width" from="0" to="250" dur="0.8s" begin="1.7s" fill="freeze"/>
-    </rect>
-    <text x="428" y="436" font-size="10" fill="#8b949e">82%</text>
-
-    <!-- Docker -->
-    <text x="20" y="454" font-size="11" fill="#c9d1d9">Docker</text>
-    <rect x="100" y="444" width="0" height="10" rx="2" fill="#1c7ed6">
-      <animate attributeName="width" from="0" to="210" dur="0.8s" begin="1.8s" fill="freeze"/>
-    </rect>
-    <text x="428" y="454" font-size="10" fill="#8b949e">72%</text>
-  </g>
-
-  <!-- Final prompt -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.2s" fill="freeze"/>
-    <text x="20" y="475" font-size="13" fill="#1c7ed6">&gt; _</text>
-  </g>
 </svg>
