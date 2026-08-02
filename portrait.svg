@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 530" width="380" height="530">
+  <rect width="380" height="530" fill="#0d1117" rx="8"/>
+  <style>
+    text { font-family: 'Courier New', Consolas, monospace; }
+    .title { font-size: 11px; fill: #8b949e; }
+    .label { font-size: 10px; fill: #1c7ed6; font-weight: bold; }
+  </style>
+
+  <!-- Terminal title bar -->
+  <rect width="380" height="32" rx="8" fill="#161b22"/>
+  <rect y="24" width="380" height="8" fill="#161b22"/>
+  <circle cx="16" cy="16" r="5" fill="#ff5f57"/>
+  <circle cx="34" cy="16" r="5" fill="#febc2e"/>
+  <circle cx="52" cy="16" r="5" fill="#28c840"/>
+  <text x="190" y="21" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle">portrait.svg</text>
+
+  <!-- ASCII Portrait - 36 chars wide, ~30 rows -->
+  <!-- Each row clips in with staggered delay -->
+
+  <defs>
+    <clipPath id="r0"><rect x="10" y="42" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r1"><rect x="10" y="56" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.04s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r2"><rect x="10" y="70" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.08s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r3"><rect x="10" y="84" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.12s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r4"><rect x="10" y="98" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.16s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r5"><rect x="10" y="112" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r6"><rect x="10" y="126" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.24s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r7"><rect x="10" y="140" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.28s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r8"><rect x="10" y="154" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.32s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r9"><rect x="10" y="168" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.36s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r10"><rect x="10" y="182" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r11"><rect x="10" y="196" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.44s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r12"><rect x="10" y="210" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.48s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r13"><rect x="10" y="224" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.52s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r14"><rect x="10" y="238" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.56s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r15"><rect x="10" y="252" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r16"><rect x="10" y="266" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.64s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r17"><rect x="10" y="280" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.68s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r18"><rect x="10" y="294" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.72s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r19"><rect x="10" y="308" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.76s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r20"><rect x="10" y="322" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r21"><rect x="10" y="336" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.84s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r22"><rect x="10" y="350" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.88s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r23"><rect x="10" y="364" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.92s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r24"><rect x="10" y="378" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="0.96s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r25"><rect x="10" y="392" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r26"><rect x="10" y="406" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="1.04s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r27"><rect x="10" y="420" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="1.08s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r28"><rect x="10" y="434" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="1.12s" fill="freeze"/></rect></clipPath>
+    <clipPath id="r29"><rect x="10" y="448" width="0" height="14"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="1.16s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- Row 0:  top of hair -->
+  <g clip-path="url(#r0)">
+    <text x="10" y="54" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan dx="0">                    </tspan><tspan fill="#4a5568">#Xx*+</tspan><tspan fill="#4a5568">::...,.</tspan><tspan fill="#4a5568">+*xX#</tspan><tspan>                    </tspan>
+    </text>
+  </g>
+
+  <!-- Row 1 -->
+  <g clip-path="url(#r1)">
+    <text x="10" y="68" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>                  </tspan><tspan fill="#4a5568">#Xx*+::,.</tspan><tspan fill="#4a5568">,:;~+*xX#</tspan><tspan>                  </tspan>
+    </text>
+  </g>
+
+  <!-- Row 2 -->
+  <g clip-path="url(#r2)">
+    <text x="10" y="82" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>                </tspan><tspan fill="#4a5568">#Xx*+::,,..</tspan><tspan fill="#4a5568">..,;~+*xX#</tspan><tspan>                </tspan>
+    </text>
+  </g>
+
+  <!-- Row 3 -->
+  <g clip-path="url(#r3)">
+    <text x="10" y="96" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>              </tspan><tspan fill="#4a5568">#Xx*+::,,...</tspan><tspan fill="#4a5568">...,;~+*xX#</tspan><tspan>              </tspan>
+    </text>
+  </g>
+
+  <!-- Row 4 -->
+  <g clip-path="url(#r4)">
+    <text x="10" y="110" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>            </tspan><tspan fill="#4a5568">#Xx*+::,,....</tspan><tspan fill="#4a5568">....,;~+*xX#</tspan><tspan>            </tspan>
+    </text>
+  </g>
+
+  <!-- Row 5: hair widens -->
+  <g clip-path="url(#r5)">
+    <text x="10" y="124" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>           </tspan><tspan fill="#4a5568">*xO#Xx*+::,,....</tspan><tspan fill="#4a5568">....,,;~+*xXO#x*</tspan><tspan>           </tspan>
+    </text>
+  </g>
+
+  <!-- Row 6: full hair -->
+  <g clip-path="url(#r6)">
+    <text x="10" y="138" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>          </tspan><tspan fill="#374151">;~+*xO#Xx*+::,,......</tspan><tspan fill="#374151">......,,;~+*xXO#x*+~;</tspan><tspan>          </tspan>
+    </text>
+  </g>
+
+  <!-- Row 7: forehead hairline -->
+  <g clip-path="url(#r7)">
+    <text x="10" y="152" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>          </tspan><tspan fill="#374151">;~+*xO#Xx*+::,,......</tspan><tspan fill="#374151">......,,;~+*xXO#x*+~;</tspan><tspan>          </tspan>
+    </text>
+  </g>
+
+  <!-- Row 8: forehead -->
+  <g clip-path="url(#r8)">
+    <text x="10" y="166" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>         </tspan><tspan fill="#9ca3af">,,</tspan><tspan fill="#d1c4a0">::::::::::::</tspan><tspan fill="#9ca3af">,,</tspan><tspan fill="#d1c4a0">::::::::::::::</tspan><tspan fill="#9ca3af">,,</tspan><tspan>         </tspan>
+    </text>
+  </g>
+
+  <!-- Row 9: forehead -->
+  <g clip-path="url(#r9)">
+    <text x="10" y="180" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>         </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>         </tspan>
+    </text>
+  </g>
+
+  <!-- Row 10: eyebrows -->
+  <g clip-path="url(#r10)">
+    <text x="10" y="194" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>        </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::</tspan><tspan fill="#6b5b3e">~~~~~</tspan><tspan fill="#d1c4a0">::::::::::</tspan><tspan fill="#6b5b3e">~~~~~</tspan><tspan fill="#d1c4a0">:::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>        </tspan>
+    </text>
+  </g>
+
+  <!-- Row 11: eyes area -->
+  <g clip-path="url(#r11)">
+    <text x="10" y="208" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>        </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::</tspan><tspan fill="#1a1a2e">.::;;::.</tspan><tspan fill="#d1c4a0">::::::</tspan><tspan fill="#1a1a2e">.::;;::.</tspan><tspan fill="#d1c4a0">::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>        </tspan>
+    </text>
+  </g>
+
+  <!-- Row 12: eyes -->
+  <g clip-path="url(#r12)">
+    <text x="10" y="222" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>        </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::</tspan><tspan fill="#1a1a2e">,:*xXx*:,</tspan><tspan fill="#d1c4a0">::::</tspan><tspan fill="#1a1a2e">,:*xXx*:,</tspan><tspan fill="#d1c4a0">:::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>        </tspan>
+    </text>
+  </g>
+
+  <!-- Row 13: under eyes -->
+  <g clip-path="url(#r13)">
+    <text x="10" y="236" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>         </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::::::::</tspan><tspan fill="#c4b090">:</tspan><tspan fill="#d1c4a0">:::::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>         </tspan>
+    </text>
+  </g>
+
+  <!-- Row 14: nose -->
+  <g clip-path="url(#r14)">
+    <text x="10" y="250" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>          </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::::::</tspan><tspan fill="#9a8a6a">:,</tspan><tspan fill="#d1c4a0">::::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>          </tspan>
+    </text>
+  </g>
+
+  <!-- Row 15: nose -->
+  <g clip-path="url(#r15)">
+    <text x="10" y="264" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>           </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::::</tspan><tspan fill="#9a8a6a">;~:,</tspan><tspan fill="#d1c4a0">::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>           </tspan>
+    </text>
+  </g>
+
+  <!-- Row 16: upper lip -->
+  <g clip-path="url(#r16)">
+    <text x="10" y="278" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>           </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::</tspan><tspan fill="#8a7a5a">;;::,.</tspan><tspan fill="#d1c4a0">::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>           </tspan>
+    </text>
+  </g>
+
+  <!-- Row 17: mouth -->
+  <g clip-path="url(#r17)">
+    <text x="10" y="292" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>            </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::</tspan><tspan fill="#8a6a5a">;;;;,.</tspan><tspan fill="#d1c4a0">.</tspan><tspan fill="#8a6a5a">.,;;;;</tspan><tspan fill="#d1c4a0">::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>            </tspan>
+    </text>
+  </g>
+
+  <!-- Row 18: lower lip -->
+  <g clip-path="url(#r18)">
+    <text x="10" y="306" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>            </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::</tspan><tspan fill="#9a7a5a">;:,</tspan><tspan fill="#d1c4a0">,</tspan><tspan fill="#9a7a5a">:,;:</tspan><tspan fill="#d1c4a0">::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>            </tspan>
+    </text>
+  </g>
+
+  <!-- Row 19: chin -->
+  <g clip-path="url(#r19)">
+    <text x="10" y="320" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>             </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">:::::::::::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>             </tspan>
+    </text>
+  </g>
+
+  <!-- Row 20: jaw -->
+  <g clip-path="url(#r20)">
+    <text x="10" y="334" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>              </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">::::::::::::::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">:::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>              </tspan>
+    </text>
+  </g>
+
+  <!-- Row 21: jawline -->
+  <g clip-path="url(#r21)">
+    <text x="10" y="348" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>               </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">:::::::::::::::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">:::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>               </tspan>
+    </text>
+  </g>
+
+  <!-- Row 22: neck -->
+  <g clip-path="url(#r22)">
+    <text x="10" y="362" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>                </tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">:::::::::::::::::::::::::</tspan><tspan fill="#b8a88a">.</tspan><tspan fill="#d1c4a0">:::::</tspan><tspan fill="#b8a88a">.</tspan><tspan>                </tspan>
+    </text>
+  </g>
+
+  <!-- Row 23: neck -->
+  <g clip-path="url(#r23)">
+    <text x="10" y="376" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>                </tspan><tspan fill="#9ca3af">,,</tspan><tspan fill="#d1c4a0">::::::::::::::::::::</tspan><tspan fill="#9ca3af">,,</tspan><tspan fill="#d1c4a0">::::::</tspan><tspan fill="#9ca3af">,,</tspan><tspan>                </tspan>
+    </text>
+  </g>
+
+  <!-- Row 24: collar -->
+  <g clip-path="url(#r24)">
+    <text x="10" y="390" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>              </tspan><tspan fill="#e2e8f0">::</tspan><tspan fill="#d1c4a0">::::::</tspan><tspan fill="#e2e8f0">:::,.</tspan><tspan fill="#d1c4a0">::::::::::</tspan><tspan fill="#e2e8f0">.,::</tspan><tspan fill="#d1c4a0">::::::</tspan><tspan fill="#e2e8f0">::</tspan><tspan>              </tspan>
+    </text>
+  </g>
+
+  <!-- Row 25: shirt -->
+  <g clip-path="url(#r25)">
+    <text x="10" y="404" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>            </tspan><tspan fill="#2563eb">;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~</tspan><tspan fill="#2563eb">;;,</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~</tspan><tspan fill="#2563eb">,;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~</tspan><tspan fill="#2563eb">;;</tspan><tspan>            </tspan>
+    </text>
+  </g>
+
+  <!-- Row 26: shirt -->
+  <g clip-path="url(#r26)">
+    <text x="10" y="418" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>          </tspan><tspan fill="#2563eb">;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">;;,</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">,;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">;;</tspan><tspan>          </tspan>
+    </text>
+  </g>
+
+  <!-- Row 27: shirt -->
+  <g clip-path="url(#r27)">
+    <text x="10" y="432" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>        </tspan><tspan fill="#2563eb">;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">;;</tspan><tspan>        </tspan>
+    </text>
+  </g>
+
+  <!-- Row 28: shirt -->
+  <g clip-path="url(#r28)">
+    <text x="10" y="446" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>      </tspan><tspan fill="#2563eb">;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">;;</tspan><tspan>      </tspan>
+    </text>
+  </g>
+
+  <!-- Row 29: shirt bottom -->
+  <g clip-path="url(#r29)">
+    <text x="10" y="460" font-size="11" fill="#1c7ed6" opacity="0.85">
+      <tspan>    </tspan><tspan fill="#2563eb">;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">;;</tspan><tspan fill="#3b82f6">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</tspan><tspan fill="#2563eb">;;</tspan><tspan>    </tspan>
+    </text>
+  </g>
+
+  <!-- Name label -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.3s" fill="freeze"/>
+    <text x="190" y="490" font-family="monospace" font-size="14" font-weight="bold" fill="#1c7ed6" text-anchor="middle">HIMANSHU BAGGA</text>
+    <text x="190" y="510" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle">// java backend developer</text>
+  </g>
+</svg>

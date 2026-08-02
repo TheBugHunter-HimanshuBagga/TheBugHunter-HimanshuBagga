@@ -2,32 +2,24 @@
 
 <br/>
 
-<img src="assets/developer-card.svg" alt="Developer Card" width="420"/>
+# <code>$ cat contributions.log</code>
+
+<br/>
+
+<img src="./graph.svg" width="850" alt="Contribution Graph"/>
 
 <br/><br/>
 
-# HIMANSHU BAGGA
+# <code>$ whoami --verbose</code>
 
 <br/>
 
-### Java Backend Developer
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Building+Scalable+Backend+Systems;Passionate+About+Java+%26+Spring+Boot;Solving+Real-World+Engineering+Problems)](https://github.com/DenverCoder1/readme-typing-svg)
-
-<br/>
-
-<a href="https://github.com/TheBugHunter-HimanshuBagga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://leetcode.com/u/Himanshu_bagga/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:himanshu.bagga@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TheBugHunter-HimanshuBagga&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait.svg" width="380" alt="Portrait"/></td>
+    <td valign="top"><img src="./sysinfo.svg" width="520" alt="System Info"/></td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -35,11 +27,11 @@
 
 <br/><br/>
 
-## 👨‍💻 About Me
+## <code>$ cat /etc/about.conf</code>
 
 <br/>
 
-<div style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px; text-align: left; max-width: 800px; margin: 0 auto;">
 
 I'm a **Java Backend Developer** passionate about designing scalable systems and solving real-world engineering problems. Currently building production-ready software with **Spring Boot**, **System Design**, and **Distributed Architecture**.
 
@@ -53,17 +45,17 @@ I enjoy working on enterprise applications that demand reliability, performance,
 
 <br/><br/>
 
-## 💼 Experience
+## <code>$ cat experience.log</code>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🏢 Java Developer Intern
+### <code>> role: java_developer_intern</code>
 
 <br/>
 
@@ -71,7 +63,7 @@ I enjoy working on enterprise applications that demand reliability, performance,
 
 <br/>
 
-📅 `June 2026 – July 2026`
+`June 2026 – July 2026`
 
 <br/>
 
@@ -99,11 +91,11 @@ Built a GIS-enabled enterprise platform using modern backend technologies.
 <br/>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🏢 Backend Developer Intern
+### <code>> role: backend_developer_intern</code>
 
 <br/>
 
@@ -111,7 +103,7 @@ Built a GIS-enabled enterprise platform using modern backend technologies.
 
 <br/>
 
-📅 `June 2025 – Present`
+`June 2025 – Present`
 
 <br/>
 
@@ -148,17 +140,17 @@ Building scalable SaaS backend systems and production-ready features.
 
 <br/><br/>
 
-## 🔧 Currently Building
+## <code>$ cat currently_building.log</code>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🌊 Disaster Damage Assessment Portal
+### <code>> project: disaster_damage_assessment</code>
 
 <br/>
 
@@ -171,11 +163,11 @@ Full-stack disaster management platform for digital reporting, field inspections
 <br/>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### ✨ Lovable Clone
+### <code>> project: lovable_clone</code>
 
 <br/>
 
@@ -190,11 +182,11 @@ AI-powered website builder with authentication, project management, and AI-assis
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🔗 LinkUP
+### <code>> project: linkup</code>
 
 <br/>
 
@@ -207,11 +199,11 @@ Professional networking platform with secure API design and real-time features.
 <br/>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🍃 Food Waste Management
+### <code>> project: food_waste_management</code>
 
 <br/>
 
@@ -233,15 +225,15 @@ Platform connecting NGOs and restaurants for donation tracking and inventory man
 
 <br/><br/>
 
-## 💻 Tech Stack
+## <code>$ cat tech_stack.log</code>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
-### ☕ Backend
+### <code>> backend</code>
 
 <br/>
 
@@ -293,9 +285,9 @@ Platform connecting NGOs and restaurants for donation tracking and inventory man
 </table>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
-### ⚛️ Frontend
+### <code>> frontend</code>
 
 <br/>
 
@@ -342,9 +334,9 @@ Platform connecting NGOs and restaurants for donation tracking and inventory man
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
-### 🗄️ Database
+### <code>> database</code>
 
 <br/>
 
@@ -370,9 +362,9 @@ Platform connecting NGOs and restaurants for donation tracking and inventory man
 </table>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
-### ☁️ Cloud & DevOps
+### <code>> cloud_devops</code>
 
 <br/>
 
@@ -401,9 +393,9 @@ Platform connecting NGOs and restaurants for donation tracking and inventory man
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
-### 🛠️ Tools
+### <code>> tools</code>
 
 <br/>
 
@@ -433,9 +425,9 @@ Platform connecting NGOs and restaurants for donation tracking and inventory man
 </table>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
-### 💬 Languages
+### <code>> languages</code>
 
 <br/>
 
@@ -474,17 +466,17 @@ Platform connecting NGOs and restaurants for donation tracking and inventory man
 
 <br/><br/>
 
-## 🚀 Featured Projects
+## <code>$ cat featured_projects.log</code>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🌊 Disaster Damage Assessment Portal
+### <code>> disaster_damage_assessment</code>
 
 <br/>
 
@@ -509,16 +501,16 @@ A full-stack disaster management platform for digital disaster reporting, field 
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>](#) [<img src="https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>](#)
+[<code>repo</code>]&nbsp;&nbsp;[<code>demo</code>]
 
 <br/>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### ✨ Lovable Clone SpringBoot
+### <code>> lovable_clone_springboot</code>
 
 <br/>
 
@@ -542,18 +534,18 @@ AI-powered website builder inspired by Lovable.dev with authentication, project 
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>](#) [<img src="https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>](#)
+[<code>repo</code>]&nbsp;&nbsp;[<code>demo</code>]
 
 <br/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🔗 LinkUP
+### <code>> linkup</code>
 
 <br/>
 
@@ -577,16 +569,16 @@ Professional networking platform with secure API design, real-time features, and
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>](#) [<img src="https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>](#)
+[<code>repo</code>]&nbsp;&nbsp;[<code>demo</code>]
 
 <br/>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🍃 Food Waste Management System
+### <code>> food_waste_management</code>
 
 <br/>
 
@@ -610,7 +602,7 @@ Platform connecting NGOs and restaurants for donation tracking, inventory manage
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>](#) [<img src="https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>](#)
+[<code>repo</code>]&nbsp;&nbsp;[<code>demo</code>]
 
 <br/>
 
@@ -624,17 +616,17 @@ Platform connecting NGOs and restaurants for donation tracking, inventory manage
 
 <br/><br/>
 
-## ✨ Highlights
+## <code>$ cat highlights.log</code>
 
 <br/>
 
 <table>
 <tr>
-<td width="33%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🏆 Research & Publications
+### <code>> research</code>
 
 <br/>
 
@@ -642,16 +634,16 @@ Published peer-reviewed paper at **4th ICICACS 2026** on intelligent computing a
 
 <br/>
 
-[📄 View Publication](#)
+[<code>view publication</code>]
 
 <br/>
 
 </td>
-<td width="33%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px;">
+<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🌍 Global Certifications
+### <code>> certifications</code>
 
 <br/>
 
@@ -659,16 +651,16 @@ Microsoft, SAP, Oracle, and AWS certifications in AI, Cloud, and Machine Learnin
 
 <br/>
 
-[🎓 View Certifications](#certifications)
+[<code>view certifications</code>]
 
 <br/>
 
 </td>
-<td width="33%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 32px;">
+<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-### 🚀 Hackathons & Competitions
+### <code>> hackathons</code>
 
 <br/>
 
@@ -676,7 +668,7 @@ Smart India Hackathon participant and hackathon finalist with hands-on competiti
 
 <br/>
 
-[🏅 View Details](#)
+[<code>view details</code>]
 
 <br/>
 
@@ -690,22 +682,22 @@ Smart India Hackathon participant and hackathon finalist with hands-on competiti
 
 <br/><br/>
 
-## 📄 Research Publication
+## <code>$ cat research_publication.log</code>
 
 <br/>
 
-<div style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 36px;">
+<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <table>
 <tr>
 <td width="80" align="center" valign="top" style="padding-right: 24px;">
 
-<img src="https://img.shields.io/badge/PUBLISHED-22c55e?style=for-the-badge&labelColor=0d1117" alt="Published"/>
+<code style="color: #26a641; font-size: 14px; font-weight: bold;">PUBLISHED</code>
 
 </td>
 <td valign="top">
 
-### 📝 Peer-Reviewed Conference Publication
+### <code>> conference_paper</code>
 
 <br/>
 
@@ -725,7 +717,7 @@ A peer-reviewed research paper on intelligent computing and advanced systems pub
 
 <br/>
 
-[📄 View Publication](#) <!-- REPLACE: Add your paper link here -->
+[<code>view publication</code>]
 
 </td>
 </tr>
@@ -739,17 +731,17 @@ A peer-reviewed research paper on intelligent computing and advanced systems pub
 
 <br/><br/>
 
-## 🎓 Global Certifications
+## <code>$ cat global_certifications.log</code>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-**Microsoft Certified**
+<code style="color: #1c7ed6;">microsoft_certified</code>
 
 <br/>
 
@@ -758,11 +750,11 @@ SQL AI Developer Associate
 <br/>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-**SAP Global Certification**
+<code style="color: #1c7ed6;">sap_global_certification</code>
 
 <br/>
 
@@ -773,11 +765,11 @@ Certified Professional
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-**Oracle Cloud Infrastructure**
+<code style="color: #1c7ed6;">oracle_cloud_infrastructure</code>
 
 <br/>
 
@@ -786,11 +778,11 @@ Certified Professional
 <br/>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-**AWS Academy**
+<code style="color: #1c7ed6;">aws_academy</code>
 
 <br/>
 
@@ -808,17 +800,17 @@ Machine Learning Foundations
 
 <br/><br/>
 
-## 📚 Professional Learning
+## <code>$ cat professional_learning.log</code>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(139,92,246,0.03) 100%); border: 1px solid rgba(99,102,241,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-**Coursera**
+<code style="color: #1c7ed6;">coursera</code>
 
 <br/>
 
@@ -827,11 +819,11 @@ Supervised Machine Learning
 <br/>
 
 </td>
-<td width="50%" valign="top" style="background: linear-gradient(135deg, rgba(139,92,246,0.06) 0%, rgba(99,102,241,0.03) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 28px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <br/>
 
-**Coursera**
+<code style="color: #1c7ed6;">coursera</code>
 
 <br/>
 
@@ -849,66 +841,17 @@ Advanced Learning Algorithms
 
 <br/><br/>
 
-## 📊 GitHub Analytics
+## <code>$ cat connect.log</code>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheBugHunter-HimanshuBagga&show_icons=true&theme=radical&hide_border=true" width="480"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBugHunter-HimanshuBagga&theme=radical&hide_border=true" width="480"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBugHunter-HimanshuBagga&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBugHunter-HimanshuBagga&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c084fc&area_color=6366f1&area=true&hide_border=true&custom_title=Contribution%20Activity)
-
-</div>
-
-<br/><br/>
-
----
-
-<br/><br/>
-
-## 🐍 Contribution Snake
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TheBugHunter-HimanshuBagga/TheBugHunter-HimanshuBagga/main/github-snake.svg" alt="GitHub Snake" width="100%"/>
-
-</div>
-
-<br/><br/>
-
----
-
-<br/><br/>
-
-## 🤝 Let's Connect
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/TheBugHunter-HimanshuBagga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://leetcode.com/u/Himanshu_bagga/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="mailto:himanshu.bagga@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/TheBugHunter-HimanshuBagga"><code>github</code></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himanshu-bagga-30b747323/"><code>linkedin</code></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><code>portfolio</code></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Himanshu_bagga/"><code>leetcode</code></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:himanshu.bagga@email.com"><code>email</code></a>
 
 </div>
 
@@ -920,8 +863,10 @@ Advanced Learning Algorithms
 
 <div align="center">
 
-*"Building scalable backend systems, one commit at a time."*
+<code>"Building scalable backend systems, one commit at a time."</code>
 
 </div>
 
 <br/>
+
+</div>
