@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 280" width="360" height="280">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="360" height="280" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect width="360" height="32" rx="10" fill="url(#bar)"/>
+  <rect y="24" width="360" height="8" fill="url(#bar)"/>
+  <circle cx="16" cy="16" r="5" fill="#ff5f57"/>
+  <circle cx="34" cy="16" r="5" fill="#febc2e"/>
+  <circle cx="52" cy="16" r="5" fill="#28c840"/>
+  <text x="70" y="21" font-family="'SF Mono','Fira Code',monospace" font-size="11" fill="#58a6ff">$ system_info.sh</text>
+
+  <!-- Content -->
+  <g font-family="'SF Mono','Fira Code',monospace" font-size="12">
+
+    <!-- OS -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.1s" fill="freeze"/>
+      <text x="20" y="62" fill="#58a6ff"></text>
+      <text x="40" y="62" fill="#58a6ff">OS</text>
+      <text x="140" y="62" fill="#484f58">:</text>
+      <text x="156" y="62" fill="#c9d1d9">Arch Linux</text>
+    </g>
+
+    <!-- Shell -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.25s" fill="freeze"/>
+      <text x="20" y="92" fill="#1c7ed6" font-weight="600">>_</text>
+      <text x="40" y="92" fill="#58a6ff">Shell</text>
+      <text x="140" y="92" fill="#484f58">:</text>
+      <text x="156" y="92" fill="#c9d1d9">zsh</text>
+    </g>
+
+    <!-- Editor -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.4s" fill="freeze"/>
+      <text x="20" y="122" fill="#58a6ff"></text>
+      <text x="40" y="122" fill="#58a6ff">Editor</text>
+      <text x="140" y="122" fill="#484f58">:</text>
+      <text x="156" y="122" fill="#c9d1d9">VS Code</text>
+    </g>
+
+    <!-- Uptime -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.55s" fill="freeze"/>
+      <text x="20" y="152" fill="#58a6ff"></text>
+      <text x="40" y="152" fill="#58a6ff">Uptime</text>
+      <text x="140" y="152" fill="#484f58">:</text>
+      <text x="156" y="152" fill="#c9d1d9">Always Building</text>
+    </g>
+
+    <!-- Focus -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.7s" fill="freeze"/>
+      <text x="20" y="182" fill="#58a6ff"></text>
+      <text x="40" y="182" fill="#58a6ff">Focus</text>
+      <text x="140" y="182" fill="#484f58">:</text>
+      <text x="156" y="182" fill="#c9d1d9">Backend, APIs,</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8s" fill="freeze"/>
+      <text x="156" y="198" fill="#c9d1d9">Distributed Systems</text>
+    </g>
+
+    <!-- Now -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9s" fill="freeze"/>
+      <text x="20" y="228" fill="#58a6ff"></text>
+      <text x="40" y="228" fill="#58a6ff">Now</text>
+      <text x="140" y="228" fill="#484f58">:</text>
+      <text x="156" y="228" fill="#c9d1d9">Building impactful</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze"/>
+      <text x="156" y="244" fill="#c9d1d9">solutions that matter.</text>
+    </g>
+  </g>
+
+  <!-- Status line -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.2s" fill="freeze"/>
+    <text x="20" y="272" font-family="monospace" font-size="11" fill="#484f58">status: </text>
+    <text x="75" y="272" font-family="monospace" font-size="11" fill="#1c7ed6">consistent</text>
+    <text x="155" y="272" font-family="monospace" font-size="11" fill="#484f58"> | </text>
+    <text x="175" y="272" font-family="monospace" font-size="11" fill="#1c7ed6">improving</text>
+    <text x="245" y="272" font-family="monospace" font-size="11" fill="#484f58"> | </text>
+    <text x="265" y="272" font-family="monospace" font-size="11" fill="#1c7ed6">shipping</text>
+  </g>
+</svg>
