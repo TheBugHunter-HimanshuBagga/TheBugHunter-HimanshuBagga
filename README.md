@@ -33,7 +33,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px;">
 
 <br/>
 
@@ -56,7 +56,7 @@ Full-stack disaster management platform for digital reporting, field inspections
 <br/>
 
 </td>
-<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px;">
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px;">
 
 <br/>
 
@@ -79,15 +79,40 @@ Professional networking platform with secure API design and real-time features.
 <br/>
 
 </td>
-<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px;">
+</tr>
+<tr>
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px;">
 
 <br/>
 
-### <code> Dokify</code>
+### <code> Food Waste Management System</code>
 
 <br/>
 
-AI-powered website builder with authentication, project management, and code generation.
+Platform connecting NGOs and restaurants for donation tracking, inventory management, and real-time updates.
+
+<br/>
+
+<code>Spring Boot</code> <code>React</code> <code>MySQL</code>
+
+<br/>
+
+<br/>
+
+[<code>github →</code>](#)
+
+<br/>
+
+</td>
+<td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px;">
+
+<br/>
+
+### <code> Lovable Clone SpringBoot</code>
+
+<br/>
+
+AI-powered website builder with authentication, project management, and AI-assisted code generation.
 
 <br/>
 

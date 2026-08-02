@@ -93,7 +93,7 @@
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.05s" fill="freeze"/>
-      <text x="36" y="388" fill="#c9d1d9">Java • Spring Boot • MySQL • Redis • Docker • AWS</text>
+      <text x="36" y="388" fill="#c9d1d9">Java • Spring Boot • MySQL • Redis • Kafka</text>
     </g>
 
     <!-- Prompt: learning -->
@@ -104,7 +104,7 @@
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.35s" fill="freeze"/>
-      <text x="36" y="438" fill="#c9d1d9">System Design • Spring Security • Redis • Docker</text>
+      <text x="36" y="438" fill="#c9d1d9">Microservices • Docker • Kubernetes • Kafka</text>
     </g>
   </g>
 
