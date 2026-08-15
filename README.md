@@ -1,154 +1,126 @@
 <div align="center">
 
-<br/>
+# Himanshu Bagga
 
-## <code>>_ Himanshu Bagga</code>
+### Java Backend Engineer
 
-<br/>
-
-<code>TheBugHunter-HimanshuBagga</code>
-<code>he/him</code>
+Building production-oriented backend systems with Spring Boot, JWT security, and real-time architectures.
 
 <br/>
 
-**Java Developer & Problem Solver**
-
-<br/>
-
-[<code>github</code>](https://github.com/TheBugHunter-HimanshuBagga) &nbsp;
-[<code>linkedin</code>](https://www.linkedin.com/in/himanshu-bagga-30b747323/) &nbsp;
-[<code>leetcode</code>](https://leetcode.com/u/Himanshu_bagga/) &nbsp;
-[<code>email</code>](mailto:himanshu.bagga@email.com)
-
-<br/><br/>
-
-<img src="./graph.svg" width="100%" alt="Contributions"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td valign="top" width="60%"><img src="./sysinfo.svg" width="100%" alt="Whoami"/></td>
-<td valign="top" width="40%"><img src="./system_info.svg" width="100%" alt="System Info"/></td>
-</tr>
-</table>
-
-<br/><br/>
-
----
-
-<br/>
-
-## <code>$ featured_projects</code>
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-
-<br/>
-
-### <code> Disaster Damage Assessment Portal</code>
-
-<br/>
-
-Enterprise platform for disaster reporting, assessment, and compensation management.
-
-<br/>
-
-<code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>React</code>
-
-<br/>
-
-<br/>
-
-[<code>github.com/.../disaster-damage-assessment-portal</code>](#)
-
-<br/>
-
-</td>
-<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-
-<br/>
-
-### <code> LinkUP</code>
-
-<br/>
-
-Social networking backend with JWT authentication, connections, and user discovery.
-
-<br/>
-
-<code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>JWT</code>
-
-<br/>
-
-<br/>
-
-[<code>github.com/.../LinkUP</code>](#)
-
-<br/>
-
-</td>
-<td width="33%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-
-<br/>
-
-### <code> Food Waste Management</code>
-
-<br/>
-
-Platform connecting NGOs and restaurants for donation tracking and inventory management.
-
-<br/>
-
-<code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>React</code>
-
-<br/>
-
-<br/>
-
-[<code>github.com/.../food-waste-management</code>](#)
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-<br/><br/>
-
----
-
-<br/>
-
-## <code>$ tech_stack</code>
-
-<br/>
-
-<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px; max-width: 800px; margin: 0 auto;">
-
-<code>Java</code> &nbsp; <code>Spring Boot</code> &nbsp; <code>MySQL</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Redis</code> &nbsp; <code>Docker</code> &nbsp; <code>AWS</code> &nbsp; <code>Kafka</code> &nbsp; <code>Git</code> &nbsp; <code>Linux</code> &nbsp; <code>Maven</code> &nbsp; <code>JWT</code> &nbsp; <code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code> &nbsp; <code>React</code>
-
-<br/><br/>
-
-<code style="color: #484f58;">Building. Learning. Shipping.</code>
+[![GitHub](https://img.shields.io/badge/GitHub-TheBugHunter--HimanshuBagga-181717?style=flat&logo=github)](https://github.com/TheBugHunter-HimanshuBagga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Bagga-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/himanshu-bagga-30b747323/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Himanshu__bagga-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Himanshu_bagga/)
 
 </div>
 
-<br/><br/>
+---
+
+## About
+
+Java backend engineer focused on building scalable systems with Spring Boot. I design and implement REST APIs, authentication systems, real-time messaging, and database-backed applications. Currently deepening expertise in distributed systems, caching strategies, and AI-integrated backends.
+
+**What I build:**
+- RESTful APIs with Spring Boot and Spring Security
+- JWT-based stateless authentication with role-based access control
+- Real-time systems using WebSocket and STOMP
+- Database design with MySQL and caching with Redis
+- AI-powered backends with Spring AI and local LLMs
 
 ---
 
-<br/>
+## Featured Projects
 
-<div align="center">
+### LinkUP — Professional Networking Backend
 
-<code style="color: #484f58;">"Code. Solve. Learn. Repeat."</code>
+Scalable LinkedIn-clone backend built across 6 development phases. Features JWT authentication, user discovery, connection management, posts, likes, comments, direct messaging, real-time notifications via WebSocket, Redis caching, and Docker containerization.
 
-</div>
+**Stack:** Java 21 · Spring Boot · Spring Security · JWT · WebSocket/STOMP · Redis · MySQL · Docker · Unit Tests
 
-<br/>
+[![Repository](https://img.shields.io/badge/Repository-282C34?style=flat&logo=github)](https://github.com/TheBugHunter-HimanshuBagga/LinkUP-)
+
+---
+
+### Food Waste Management System
+
+Full-stack platform connecting food donors (restaurants, events, households) with NGOs and individuals in need. Features JWT authentication, role-based dashboards, donation tracking, order processing, and analytics. Independently designed, developed, and deployed.
+
+**Stack:** Java 17 · Spring Boot · Spring Security · JWT · MySQL · React 19 · Vite · Tailwind CSS
+
+[![Repository](https://img.shields.io/badge/Repository-282C34?style=flat&logo=github)](https://github.com/TheBugHunter-HimanshuBagga/Food-Waste-Management-System)
+
+---
+
+### Disaster Damage Assessment Portal
+
+Enterprise-grade government platform for digital disaster reporting, field inspections, damage assessment, and compensation management. Implements role-based access across 4 user types (Citizen, Field Officer, District Administrator, Super Admin) with a complete workflow lifecycle.
+
+**Stack:** Java 21 · Spring Boot 3 · Spring Data JPA · MySQL · Maven · Lombok
+
+[![Repository](https://img.shields.io/badge/Repository-282C34?style=flat&logo=github)](https://github.com/TheBugHunter-HimanshuBagga/disaster-damage-assessment-portal)
+
+---
+
+### Airbnb Dynamic Pricing Backend
+
+Spring Boot backend implementing a dynamic pricing engine using the Strategy Design Pattern. Supports multiple pricing strategies (base, holiday, occupancy, surge, urgency) with clean layered architecture and JWT-secured endpoints.
+
+**Stack:** Java · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · Strategy Pattern
+
+[![Repository](https://img.shields.io/badge/Repository-282C34?style=flat&logo=github)](https://github.com/TheBugHunter-HimanshuBagga/airbnb-dynamic-pricing-backend)
+
+---
+
+### Lovable Clone — AI-Powered Website Builder
+
+Backend for an AI-powered website builder (inspired by Lovable.dev). Generates project structures from natural language prompts using Spring AI with local LLM integration via Ollama. Includes user management, conversation history, and chat system.
+
+**Stack:** Java 21+ · Spring Boot · Spring Security · Hibernate · MySQL · JWT · Spring AI · Ollama
+
+[![Repository](https://img.shields.io/badge/Repository-282C34?style=flat&logo=github)](https://github.com/TheBugHunter-HimanshuBagga/lovable-clone-springboot)
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java · JavaScript · Python · SQL |
+| **Backend** | Spring Boot · Spring Security · Spring Data JPA · Hibernate · WebSocket/STOMP · Spring AI |
+| **Frontend** | React · HTML5 · CSS3 · Tailwind CSS |
+| **Databases** | MySQL · Redis |
+| **Security** | JWT · OAuth2 · Role-Based Access Control |
+| **DevOps** | Docker · Maven · Git |
+| **Testing** | JUnit · Mockito · JaCoCo |
+| **Design Patterns** | Strategy · Builder · Repository · DTO · Layered Architecture |
+
+---
+
+## LeetCode
+
+Solved **124 problems** across arrays, strings, linked lists, trees, dynamic programming, and backtracking. Consistent daily practice with a **50-day streak badge (2026)**.
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Himanshu_bagga/)
+
+---
+
+## Current Focus
+
+- Building and shipping production-quality Spring Boot applications
+- System design and distributed systems fundamentals
+- Real-time architectures with WebSocket and message brokers
+- AI integration backends with Spring AI and local LLMs
+- Data Structures & Algorithms daily practice
+
+---
+
+## Contact
+
+| Platform | Link |
+|----------|------|
+| LinkedIn | [Himanshu Bagga](https://www.linkedin.com/in/himanshu-bagga-30b747323/) |
+| GitHub | [TheBugHunter-HimanshuBagga](https://github.com/TheBugHunter-HimanshuBagga) |
+| LeetCode | [Himanshu_bagga](https://leetcode.com/u/Himanshu_bagga/) |
+| Portfolio | [updated-about-me.vercel.app](https://updated-about-me.vercel.app/) |
 
 </div>
