@@ -104,6 +104,20 @@ Solved **124 problems** across arrays, strings, linked lists, trees, dynamic pro
 
 ---
 
+## Experience
+
+### Java Developer Intern
+**JudgeIndia Solutions (Judge Group)** · June — July 2026
+
+Built a GIS-enabled real-time enterprise platform using Spring Boot, PostgreSQL/PostGIS, JWT, Redis, ActiveMQ, and WebSockets. Implemented scalable backend services for authentication, event-driven messaging, spatial analytics, live operational dashboards, record & replay, audit logging, and document management in a production-oriented architecture.
+
+### Backend Developer (Open Source)
+**Sentinel Layer Pvt Ltd** · June — August 2026
+
+Building scalable backend systems for a SaaS-based startup. Developing and maintaining core platform services, APIs, and infrastructure to support production workloads.
+
+---
+
 ## Current Focus
 
 - Building and shipping production-quality Spring Boot applications
