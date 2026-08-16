@@ -111,7 +111,7 @@ Solved **124 problems** across arrays, strings, linked lists, trees, dynamic pro
 
 Built a GIS-enabled real-time enterprise platform using Spring Boot, PostgreSQL/PostGIS, JWT, Redis, ActiveMQ, and WebSockets. Implemented scalable backend services for authentication, event-driven messaging, spatial analytics, live operational dashboards, record & replay, audit logging, and document management in a production-oriented architecture.
 
-### Backend Developer (Open Source)
+### Backend Developer (SRM FOUNDED SAAS BASED START_UP)
 **Sentinel Layer Pvt Ltd** · June — August 2026
 
 Building scalable backend systems for a SaaS-based startup. Developing and maintaining core platform services, APIs, and infrastructure to support production workloads.
