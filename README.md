@@ -135,6 +135,6 @@ Building scalable backend systems for a SaaS-based startup. Developing and maint
 | LinkedIn | [Himanshu Bagga](https://www.linkedin.com/in/himanshu-bagga-30b747323/) |
 | GitHub | [TheBugHunter-HimanshuBagga](https://github.com/TheBugHunter-HimanshuBagga) |
 | LeetCode | [Himanshu_bagga](https://leetcode.com/u/Himanshu_bagga/) |
-| Portfolio | [HimanshuBagga.vercel.app]([https://updated-about-me.vercel.app/](https://portfolio-professional-umber.vercel.app/)) |
+| Portfolio | [https://portfolio-professional-umber.vercel.app/]([https://updated-about-me.vercel.app/](https://portfolio-professional-umber.vercel.app/)) |
 
 </div>
