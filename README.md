@@ -88,7 +88,7 @@ Backend for an AI-powered website builder (inspired by Lovable.dev). Generates p
 | **Languages** | Java · JavaScript · Python · SQL |
 | **Backend** | Spring Boot · Spring Security · Spring Data JPA · Hibernate · WebSocket/STOMP · Spring AI |
 | **Frontend** | React · HTML5 · CSS3 · Tailwind CSS |
-| **Databases** | MySQL · Redis |
+| **Databases** | MySQL · Redis · PostgreSQL|
 | **Security** | JWT · OAuth2 · Role-Based Access Control |
 | **DevOps** | Docker · Maven · Git |
 | **Testing** | JUnit · Mockito · JaCoCo |
@@ -98,7 +98,7 @@ Backend for an AI-powered website builder (inspired by Lovable.dev). Generates p
 
 ## LeetCode
 
-Solved **168 problems** across arrays, strings, linked lists, trees, dynamic programming, and backtracking. Consistent daily practice with a **50-day streak badge (2026)**.
+Solved **250+ problems** across arrays, strings, linked lists, trees, dynamic programming, and backtracking. Consistent daily practice with a **50-day streak badge (2026)**.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Himanshu_bagga/)
 
